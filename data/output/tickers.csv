@@ -1,0 +1,1001 @@
+Ticker,Name,Exchange,Category Name,Country
+OEDV,"Osage Exploration and Development, Inc.",PNK,,USA
+AAPL,Apple Inc.,NMS,Electronic Equipment,USA
+BAC,Bank of America Corporation,NYQ,Money Center Banks,USA
+AMZN,"Amazon.com, Inc.",NMS,Catalog & Mail Order Houses,USA
+T,AT&T Inc.,NYQ,Telecom Services - Domestic,USA
+GOOG,Alphabet Inc.,NMS,Internet Information Providers,USA
+MO,"Altria Group, Inc.",NYQ,Cigarettes,USA
+DAL,"Delta Air Lines, Inc.",NYQ,Major Airlines,USA
+AA,Alcoa Corporation,NYQ,Aluminum,USA
+AXP,American Express Company,NYQ,Credit Services,USA
+DD,E. I. du Pont de Nemours and Company,NYQ,Agricultural Chemicals,USA
+BABA,Alibaba Group Holding Limited,NYQ,"Specialty Retail, Other",USA
+ABT,Abbott Laboratories,NYQ,Medical Appliances & Equipment,USA
+UA,"Under Armour, Inc.",NYQ,Textile - Apparel Clothing,USA
+AMAT,"Applied Materials, Inc.",NMS,Semiconductor Equipment & Materials,USA
+AMGN,Amgen Inc.,NMS,Biotechnology,USA
+AAL,American Airlines Group Inc.,NMS,Major Airlines,USA
+AIG,"American International Group, Inc.",NYQ,Property & Casualty Insurance,USA
+ALL,The Allstate Corporation,NYQ,Property & Casualty Insurance,USA
+ADBE,Adobe Systems Incorporated,NMS,Application Software,USA
+GOOGL,Alphabet Inc.,NMS,Internet Information Providers,USA
+ACN,Accenture plc,NYQ,Information Technology Services,USA
+ABBV,AbbVie Inc.,NYQ,Drug Manufacturers - Major,USA
+MT,ArcelorMittal,NYQ,Steel & Iron,USA
+LLY,Eli Lilly and Company,NYQ,Drug Manufacturers - Major,USA
+AGN,Allergan plc,NYQ,Drugs - Generic,USA
+APA,Apache Corporation,NYQ,Independent Oil & Gas,USA
+ADP,"Automatic Data Processing, Inc.",NMS,Business Software & Services,USA
+APC,Anadarko Petroleum Corporation,NYQ,Independent Oil & Gas,USA
+AKAM,"Akamai Technologies, Inc.",NMS,Internet Information Providers,USA
+NLY,"Annaly Capital Management, Inc.",NYQ,REIT - Diversified,USA
+ABX,Barrick Gold Corporation,NYQ,Gold,USA
+ATVI,"Activision Blizzard, Inc.",NMS,Multimedia & Graphics Software,USA
+ADSK,"Autodesk, Inc.",NMS,Technical & System Software,USA
+ADM,Archer-Daniels-Midland Company,NYQ,Farm Products,USA
+BMH.AX,Baumart Holdings Limited,ASX,General Building Materials,Australia
+WBA,"Walgreens Boots Alliance, Inc.",NMS,Drug Stores,USA
+ARNA,"Arena Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+LUV,Southwest Airlines Co.,NYQ,Regional Airlines,USA
+ACAD,ACADIA Pharmaceuticals Inc.,NMS,Biotechnology,USA
+PANW,"Palo Alto Networks, Inc.",NYQ,Networking & Communication Devices,USA
+AMD,"Advanced Micro Devices, Inc.",NCM,Semiconductor - Broad Line,USA
+AET,Aetna Inc.,NYQ,Health Care Plans,USA
+AEP,"American Electric Power Company, Inc.",NYQ,Electric Utilities,USA
+ALXN,"Alexion Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+CLMS,Calamos Asset Management Inc.,NMS,,USA
+AVGO,Broadcom Limited,NMS,Semiconductor - Broad Line,USA
+EA,Electronic Arts Inc.,NMS,Multimedia & Graphics Software,USA
+DB,Deutsche Bank Aktiengesellschaft,NYQ,Foreign Regional Banks,USA
+RAI,Reynolds American Inc.,NYQ,,USA
+AEM,Agnico Eagle Mines Limited,NYQ,Gold,USA
+APD,"Air Products and Chemicals, Inc.",NYQ,Chemicals - Major Diversified,USA
+AMBA,"Ambarella, Inc.",NMS,Semiconductor Equipment & Materials,USA
+NVS,Novartis AG,NYQ,Drug Manufacturers - Major,USA
+APOL,"Apollo Education Group, Inc.",NMS,,USA
+ANF,Abercrombie & Fitch Co.,NYQ,Apparel Stores,USA
+LULU,Lululemon Athletica Inc.,NMS,Textile - Apparel Clothing,USA
+RAD,Rite Aid Corporation,NYQ,Drug Stores,USA
+BRK.AX,Brookside Energy Limited,ASX,Independent Oil & Gas,Australia
+ARRY,Array BioPharma Inc.,NGM,Biotechnology,USA
+AGNC,AGNC Investment Corp.,NMS,REIT - Residential,USA
+JBLU,JetBlue Airways Corporation,NMS,Regional Airlines,USA
+A,"Agilent Technologies, Inc.",NYQ,Medical Laboratories & Research,USA
+ORLY,"O'Reilly Automotive, Inc.",NMS,Auto Parts Stores,USA
+FOLD,"Amicus Therapeutics, Inc.",NGM,Biotechnology,USA
+AZO,"AutoZone, Inc.",NYQ,Auto Parts Stores,USA
+ATML,Atmel Corporation,NMS,,USA
+AN,"AutoNation, Inc.",NYQ,Auto Dealerships,USA
+AZN,AstraZeneca PLC,NYQ,Drug Manufacturers - Major,USA
+AES,The AES Corporation,NYQ,Electric Utilities,USA
+GAS,AGL Resources Inc.,NYQ,,USA
+BUD,Anheuser-Busch InBev SA/NV,NYQ,Beverages - Brewers,USA
+ARR,"ARMOUR Residential REIT, Inc.",NYQ,REIT - Residential,USA
+BDX,"Becton, Dickinson and Company",NYQ,Medical Instruments & Supplies,USA
+AKS,AK Steel Holding Corporation,NYQ,Steel & Iron,USA
+AB,AllianceBernstein Holding L.P.,NYQ,Asset Management,USA
+ACOR,"Acorda Therapeutics, Inc.",NMS,Biotechnology,USA
+CS,Credit Suisse Group AG,NYQ,Foreign Money Center Banks,USA
+AFL,Aflac Incorporated,NYQ,Accident & Health Insurance,USA
+ADI,"Analog Devices, Inc.",NMS,Semiconductor - Integrated Circuits,USA
+AEGR,"Aegerion Pharmaceuticals, Inc.",NMS,,USA
+ACIW,"ACI Worldwide, Inc.",NMS,Technical & System Software,USA
+AMP,"Ameriprise Financial, Inc.",NYQ,Asset Management,USA
+AVP,"Avon Products, Inc.",NYQ,Personal Products,USA
+AMTD,TD Ameritrade Holding Corporation,NMS,Investment Brokerage - National,USA
+AEO,"American Eagle Outfitters, Inc.",NYQ,Apparel Stores,USA
+AWK,"American Water Works Company, Inc.",NYQ,Water Utilities,USA
+NVO,Novo Nordisk A/S,NYQ,Drug Manufacturers - Other,USA
+ALTR,Altera Corp.,NMS,,USA
+ALK,"Alaska Air Group, Inc.",NYQ,Regional Airlines,USA
+PAA,"Plains All American Pipeline, L.P.",NYQ,Oil & Gas Pipelines,USA
+MTU.AX,M2 Group Ltd,ASX,,Australia
+ARCC,Ares Capital Corporation,NMS,,USA
+AAP,"Advance Auto Parts, Inc.",NYQ,Auto Parts Stores,USA
+NAT,Nordic American Tankers Limited,NYQ,Shipping,USA
+FNMA,Federal National Mortgage Association,PNK,Mortgage Investment,USA
+FAV,First Trust Dividend and Income Fund,NYQ,,USA
+AIV,Apartment Investment and Management Company,NYQ,REIT - Residential,USA
+AGIO,"Agios Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+AEE,Ameren Corporation,NYQ,Electric Utilities,USA
+UBS,UBS Group AG,NYQ,Foreign Money Center Banks,USA
+AVXL,Anavex Life Sciences Corp.,NCM,Biotechnology,USA
+ARLP,"Alliance Resource Partners, L.P.",NMS,Industrial Metals & Minerals,USA
+ANTM,"Anthem, Inc.",NYQ,Health Care Plans,USA
+AGU,Agrium Inc.,NYQ,Agricultural Chemicals,USA
+AG,First Majestic Silver Corp.,NYQ,Silver,USA
+AFSI,"AmTrust Financial Services, Inc.",NMS,Property & Casualty Insurance,USA
+ABC,AmerisourceBergen Corporation,NYQ,Drugs Wholesale,USA
+STO,Statoil ASA,NYQ,Major Integrated Oil & Gas,USA
+ATI,Allegheny Technologies Incorporated,NYQ,Metal Fabrication,USA
+ADT,The ADT Corporation,NYQ,,USA
+AVB,"AvalonBay Communities, Inc.",NYQ,REIT - Residential,USA
+ATW,"Atwood Oceanics, Inc.",NYQ,Oil & Gas Drilling & Exploration,USA
+ALNY,"Alnylam Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+LH,Laboratory Corporation of America Holdings,NYQ,Medical Laboratories & Research,USA
+AVY,Avery Dennison Corporation,NYQ,Business Equipment,USA
+AUY,Yamana Gold Inc.,NYQ,Gold,USA
+ASH,Ashland Global Holdings Inc.,NYQ,Chemicals - Major Diversified,USA
+ARMH,ARM Holdings plc,NMS,,USA
+ARIA,"ARIAD Pharmaceuticals, Inc.",NMS,,USA
+ANR,"Alpha Natural Resources, Inc.",NYQ,,USA
+AINV,Apollo Investment Corporation,NMS,,USA
+ACXM,Acxiom Corporation,NMS,Information Technology Services,USA
+ACHN,"Achillion Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+ACET,Aceto Corporation,NMS,Chemicals - Major Diversified,USA
+ABMD,"ABIOMED, Inc.",NMS,Medical Appliances & Equipment,USA
+ABM,ABM Industries Incorporated,NYQ,Business Services,USA
+VA,Virgin America Inc.,NMS,,USA
+LIFE,"aTyr Pharma, Inc.",NMS,Biotechnology,USA
+ATO,Atmos Energy Corporation,NYQ,Gas Utilities,USA
+ARP,"Atlas Resource Partners, L.P.",NYQ,,USA
+AON,Aon plc,NYQ,Insurance Brokers,USA
+ADXS,"Advaxis, Inc.",NMS,Biotechnology,USA
+ADC,Agree Realty Corporation,NYQ,Property Management,USA
+APU,"AmeriGas Partners, L.P.",NYQ,Gas Utilities,USA
+SAVE,"Spirit Airlines, Inc.",NMS,Major Airlines,USA
+AV,Aviva plc,NYQ,,USA
+AKRX,"Akorn, Inc.",NMS,Drugs - Generic,USA
+ADS,Alliance Data Systems Corporation,NYQ,Business Services,USA
+ABAX,"Abaxis, Inc.",NMS,Medical Laboratories & Research,USA
+AYI,"Acuity Brands, Inc.",NYQ,Diversified Electronics,USA
+AWH,"Allied World Assurance Company Holdings, AG",NYQ,,USA
+ASML,ASML Holding N.V.,NMS,,USA
+AMT,American Tower Corporation,NYQ,REIT - Diversified,USA
+ALDR,"Alder Biopharmaceuticals, Inc.",NGM,Biotechnology,USA
+ACM,AECOM,NYQ,Technical Services,USA
+DWA,DreamWorks Animation SKG Inc.,NMS,,USA
+ATRS,"Antares Pharma, Inc.",NCM,Medical Instruments & Supplies,USA
+ARW,"Arrow Electronics, Inc.",NYQ,Electronics Wholesale,USA
+ARI,"Apollo Commercial Real Estate Finance, Inc.",NYQ,REIT - Diversified,USA
+ARG,"Airgas, Inc.",NYQ,,USA
+AR,Antero Resources Corporation,NYQ,Oil & Gas Drilling & Exploration,USA
+AMCC,Applied Micro Circuits Corporation,NMS,,USA
+AMC,"AMC Entertainment Holdings, Inc.",NYQ,"Movie Production, Theaters",USA
+AL,Air Lease Corporation,NYQ,Rental & Leasing Services,USA
+AGEN,Agenus Inc.,NCM,Biotechnology,USA
+AAN,"Aaron's, Inc.",NYQ,Rental & Leasing Services,USA
+WTR,"Aqua America, Inc.",NYQ,Water Utilities,USA
+FCAU,Fiat Chrysler Automobiles N.V.,NYQ,,USA
+BAH,Booz Allen Hamilton Holding Corporation,NYQ,Management Services,USA
+AXAS,Abraxas Petroleum Corporation,NCM,Independent Oil & Gas,USA
+AVT,"Avnet, Inc.",NYQ,Electronics Wholesale,USA
+ALB,Albemarle Corporation,NYQ,Specialty Chemicals,USA
+AIZ,"Assurant, Inc.",NYQ,Accident & Health Insurance,USA
+SAIC,Science Applications International Corporation,NYQ,Information Technology Services,USA
+CAR,"Avis Budget Group, Inc.",NMS,Rental & Leasing Services,USA
+AXLL,Axiall Corporation,NYQ,,USA
+AU,AngloGold Ashanti Limited,NYQ,Gold,USA
+ARO,"Aéropostale, Inc.",NYQ,,USA
+APH,Amphenol Corporation,NYQ,Diversified Electronics,USA
+ANTH,"Anthera Pharmaceuticals, Inc.",NGM,Biotechnology,USA
+AMX,"América Móvil, S.A.B. de C.V.",NYQ,Wireless Communications,USA
+AMDA,Amedica Corporation,NCM,Medical Appliances & Equipment,USA
+AI,Arlington Asset Investment Corp.,NYQ,Mortgage Investment,USA
+ABCO,The Advisory Board Company,NMS,Business Services,USA
+WMC,Western Asset Mortgage Capital Corporation,NYQ,Mortgage Investment,USA
+MPX.AX,Mustera Property Group Limited,ASX,Property Management,Australia
+JKHY,"Jack Henry & Associates, Inc.",NMS,Business Software & Services,USA
+AVAV,"AeroVironment, Inc.",NMS,Aerospace/Defense Products & Services,USA
+AMKR,"Amkor Technology, Inc.",NMS,Semiconductor - Integrated Circuits,USA
+ALJ,"Alon USA Energy, Inc.",NYQ,,USA
+ACH,Aluminum Corporation Of China Limited,NYQ,Aluminum,USA
+GPH.AX,Australian Potash Limited,ASX,,Australia
+ERC,Wells Fargo Advantage Multi-Sector Income Fund,ASE,,USA
+APPY,"Bioptix, Inc.",NCM,,USA
+ANAC,"Anacor Pharmaceuticals, Inc.",NMS,,USA
+AEIS,"Advanced Energy Industries, Inc.",NMS,Diversified Electronics,USA
+Y,Alleghany Corporation,NYQ,Property & Casualty Insurance,USA
+MTGE,MTGE Investment Corp.,NMS,REIT - Diversified,USA
+CENX,Century Aluminum Company,NMS,Aluminum,USA
+ASPS,Altisource Portfolio Solutions S.A.,NMS,Business Services,USA
+AMRN,Amarin Corporation plc,NGM,Drug Manufacturers - Other,USA
+AMPE,"Ampio Pharmaceuticals, Inc.",ASE,Biotechnology,USA
+AMAG,"AMAG Pharmaceuticals, Inc.",NMS,Diagnostic Substances,USA
+ALKS,Alkermes plc,NMS,Drug Delivery,USA
+AFFX,Affymetrix Inc.,NMS,,USA
+ADES,"Advanced Emissions Solutions, Inc.",NGM,Pollution & Treatment Controls,USA
+ACAT,Arctic Cat Inc.,NMS,,USA
+AAON,"AAON, Inc.",NMS,General Building Materials,USA
+XLRN,Acceleron Pharma Inc.,NGM,Biotechnology,USA
+VRSK,"Verisk Analytics, Inc.",NMS,Business Services,USA
+VJET,Voxeljet AG,NYQ,Computer Peripherals,USA
+OA,"Orbital ATK, Inc.",NYQ,Aerospace/Defense Products & Services,USA
+ATLS,"Atlas Energy Group, LLC",PNK,Independent Oil & Gas,USA
+APTS,"Preferred Apartment Communities, Inc.",NYQ,REIT - Residential,USA
+APO,"Apollo Global Management, LLC",NYQ,Diversified Investments,USA
+ALSK,"Alaska Communications Systems Group, Inc.",NMS,Telecom Services - Domestic,USA
+ALG,Alamo Group Inc.,NYQ,Farm & Construction Machinery,USA
+AHC,A.H. Belo Corporation,NYQ,Publishing - Newspapers,USA
+ACTG,Acacia Research Corporation,NMS,Business Services,USA
+ACAS,"American Capital, Ltd.",NMS,,USA
+RBA,Ritchie Bros. Auctioneers Incorporated,NYQ,Business Services,USA
+MAA,"Mid-America Apartment Communities, Inc.",NYQ,REIT - Residential,USA
+BAM,Brookfield Asset Management Inc.,NYQ,Real Estate Development,USA
+ATHN,"athenahealth, Inc.",NMS,Healthcare Information Services,USA
+AT,Atlantic Power Corporation,NYQ,Electric Utilities,USA
+ASX,"Advanced Semiconductor Engineering, Inc.",NYQ,Semiconductor Equipment & Materials,USA
+ARCO,Arcos Dorados Holdings Inc.,NYQ,Restaurants,USA
+ANET,"Arista Networks, Inc.",NYQ,Diversified Computer Systems,USA
+ANCX,Access National Corporation,NGM,Regional - Mid-Atlantic Banks,USA
+AIR,AAR Corp.,NYQ,Aerospace/Defense Products & Services,USA
+AF,Astoria Financial Corporation,NYQ,Savings & Loans,USA
+WAB,Westinghouse Air Brake Technologies Corporation,NYQ,Railroads,USA
+RS,Reliance Steel & Aluminum Co.,NYQ,Steel & Iron,USA
+PKG,Packaging Corporation of America,NYQ,Packaging & Containers,USA
+CSH,"Cash America International, Inc.",NYQ,,USA
+AXDX,"Accelerate Diagnostics, Inc.",NCM,Medical Laboratories & Research,USA
+AVHI,"AV Homes, Inc.",NMS,Residential Construction,USA
+AVA,Avista Corporation,NYQ,Diversified Utilities,USA
+ATHX,"Athersys, Inc.",NCM,Biotechnology,USA
+ARWR,"Arrowhead Pharmaceuticals, Inc.",NMS,Biotechnology,USA
+ANGI,"Angie's List, Inc.",NMS,Internet Software & Services,USA
+AMG,"Affiliated Managers Group, Inc.",NYQ,Asset Management,USA
+ALSN,"Allison Transmission Holdings, Inc.",NYQ,Auto Parts,USA
+ALGN,"Align Technology, Inc.",NMS,Medical Appliances & Equipment,USA
+AKBA,"Akebia Therapeutics, Inc.",NGM,Biotechnology,USA
+AGO,Assured Guaranty Ltd.,NYQ,Surety & Title Insurance,USA
+AEZS,Aeterna Zentaris Inc.,NCM,Biotechnology,USA
+ACRX,"AcelRx Pharmaceuticals, Inc.",NGM,Medical Appliances & Equipment,USA
+ROK,Rockwell Automation Inc.,NYQ,Diversified Machinery,USA
+GLPI,"Gaming and Leisure Properties, Inc.",NMS,REIT - Diversified,USA
+DNI,Dividend and Income Fund,NYQ,,USA
+AZZ,AZZ Inc.,NYQ,Diversified Machinery,USA
+ATRC,"AtriCure, Inc.",NGM,Medical Instruments & Supplies,USA
+ARRS,ARRIS International plc,NMS,Communication Equipment,USA
+ARMK,Aramark,NYQ,Specialty Eateries,USA
+AOS,A. O. Smith Corporation,NYQ,Industrial Electrical Equipment,USA
+ANFI,Amira Nature Foods Ltd.,NYQ,Food - Major Diversified,USA
+AMID,"American Midstream Partners, LP",NYQ,Oil & Gas Pipelines,USA
+AMCX,AMC Networks Inc.,NMS,Entertainment - Diversified,USA
+ALIM,"Alimera Sciences, Inc.",NGM,Drug Manufacturers - Major,USA
+ALE,"ALLETE, Inc.",NYQ,Diversified Utilities,USA
+AHT,"Ashford Hospitality Trust, Inc.",NYQ,REIT - Hotel/Motel,USA
+ACW,Accuride Corp.,NYQ,,USA
+ABB,ABB Ltd,NYQ,Diversified Machinery,USA
+AALI.JK,PT Astra Agro Lestari Tbk,JKT,,Indonesia
+SPR,"Spirit AeroSystems Holdings, Inc.",NYQ,Aerospace/Defense Products & Services,USA
+SEE,Sealed Air Corporation,NYQ,Packaging & Containers,USA
+RDEN,"Elizabeth Arden, Inc.",NMS,,USA
+PAAS,Pan American Silver Corp.,NMS,,USA
+DLPH,Delphi Automotive PLC,NYQ,Auto Parts,USA
+ADAC,Adama Technologies Corporation,PNK,,USA
+CBL,"CBL & Associates Properties, Inc.",NYQ,REIT - Retail,USA
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYQ,Foreign Regional Banks,USA
+AYR,Aircastle Limited,NYQ,Rental & Leasing Services,USA
+APOG,"Apogee Enterprises, Inc.",NMS,General Building Materials,USA
+ANDE,"The Andersons, Inc.",NMS,Farm Products,USA
+AMSC,American Superconductor Corporation,NMS,Industrial Electrical Equipment,USA
+AMRS,"Amyris, Inc.",NMS,Specialty Chemicals,USA
+AMED,"Amedisys, Inc.",NMS,Home Health Care,USA
+ALEX,"Alexander & Baldwin, Inc.",NYQ,Real Estate Development,USA
+ALCO,"Alico, Inc.",NMS,Farm Products,USA
+ADUS,Addus HomeCare Corporation,NMS,Home Health Care,USA
+ACTA,Actua Corporation,NMS,Application Software,USA
+ACST,Acasti Pharma Inc.,NCM,Biotechnology,USA
+AAWW,"Atlas Air Worldwide Holdings, Inc.",NMS,"Air Services, Other",USA
+WMS,"Advanced Drainage Systems, Inc.",NYQ,Rubber & Plastics,USA
+PAG,"Penske Automotive Group, Inc.",NYQ,Auto Dealerships,USA
+MDRX,"Allscripts Healthcare Solutions, Inc.",NMS,Application Software,USA
+KLIC,"Kulicke and Soffa Industries, Inc.",NMS,Semiconductor Equipment & Materials,USA
+ETH,Ethan Allen Interiors Inc.,NYQ,Home Furnishings & Fixtures,USA
+AZPN,"Aspen Technology, Inc.",NMS,Business Software & Services,USA
+AXE,Anixter International Inc.,NYQ,Industrial Equipment Wholesale,USA
+ATNY,API Technologies Corp.,NCM,,USA
+APRI,"Apricus Biosciences, Inc.",NCM,Drug Manufacturers - Other,USA
+AMH,American Homes 4 Rent,NYQ,REIT - Residential,USA
+AME,"AMETEK, Inc.",NYQ,Diversified Machinery,USA
+AJG,Arthur J. Gallagher & Co.,NYQ,Insurance Brokers,USA
+AIQ,"Alliance Healthcare Services, Inc.",NGM,,USA
+AHGP,"Alliance Holdings GP, L.P.",NMS,Nonmetallic Mineral Mining,USA
+AGCO,AGCO Corporation,NYQ,Farm & Construction Machinery,USA
+AERI,"Aerie Pharmaceuticals, Inc.",NGM,Drug Manufacturers - Major,USA
+ACRE,Ares Commercial Real Estate Corporation,NYQ,REIT - Diversified,USA
+ABEO,Abeona Therapeutics Inc.,NCM,,USA
+WAL,Western Alliance Bancorporation,NYQ,Regional - Pacific Banks,USA
+SYT,Syngenta AG,NYQ,Agricultural Chemicals,USA
+SHLM,"A. Schulman, Inc.",NMS,Chemicals - Major Diversified,USA
+NOG,"Northern Oil and Gas, Inc.",ASE,Oil & Gas Drilling & Exploration,USA
+HTA,"Healthcare Trust of America, Inc.",NYQ,REIT - Healthcare Facilities,USA
+GIII,"G-III Apparel Group, Ltd.",NMS,Textile - Apparel Clothing,USA
+DAVE,"Famous Dave's of America, Inc.",NMS,Restaurants,USA
+CVU,"CPI Aerostructures, Inc.",ASE,Aerospace/Defense Products & Services,USA
+BSI,Alon Blue Square Israel Ltd,NYQ,,USA
+AWAY,"HomeAway, Inc.",NMS,,USA
+ATU,Actuant Corporation,NYQ,Diversified Machinery,USA
+ASTI,"Ascent Solar Technologies, Inc.",PNK,Semiconductor - Specialized,USA
+AREX,"Approach Resources, Inc.",NMS,Independent Oil & Gas,USA
+ARE,"Alexandria Real Estate Equities, Inc.",NYQ,REIT - Office,USA
+ANSS,"Ansys, Inc.",NMS,Application Software,USA
+AMNB,American National Bankshares Inc.,NMS,Regional - Mid-Atlantic Banks,USA
+AMBS,"Amarantus Bioscience Holdings, Inc",PNK,Biotechnology,USA
+ALR,Alere Inc.,NYQ,Medical Laboratories & Research,USA
+AIXG,Aixtron SE,NMS,,USA
+AIN,Albany International Corp.,NYQ,Textile Industrial,USA
+AHL,Aspen Insurance Holdings Limited,NYQ,Property & Casualty Insurance,USA
+AGX,"Argan, Inc.",NYQ,Heavy Construction,USA
+AEG,AEGON N.V.,NYQ,,USA
+ADTN,"ADTRAN, Inc.",NMS,Communication Equipment,USA
+ADMS,"Adamas Pharmaceuticals, Inc.",NGM,Drugs - Generic,USA
+ACLS,"Axcelis Technologies, Inc.",NMS,Semiconductor Equipment & Materials,USA
+ABG,"Asbury Automotive Group, Inc.",NYQ,Auto Dealerships,USA
+ZX,China Zenix Auto International Limited,NYQ,Auto Parts,USA
+NXJ,Nuveen New Jersey Quality Municipal Income Fund,NYQ,,USA
+KS,KapStone Paper and Packaging Corporation,NYQ,Paper & Paper Products,USA
+HOLI,"HollySys Automation Technologies, Ltd.",NMS,Industrial Electrical Equipment,USA
+GPI,"Group 1 Automotive, Inc.",NYQ,Auto Dealerships,USA
+ENI,Enersis Américas S.A.,NYQ,,USA
+BEAV,"B/E Aerospace, Inc.",NMS,,USA
+AXTA,Axalta Coating Systems Ltd.,NYQ,Specialty Chemicals,USA
+AWR,American States Water Company,NYQ,Water Utilities,USA
+AWI,"Armstrong World Industries, Inc.",NYQ,General Building Materials,USA
+AVEO,"AVEO Pharmaceuticals, Inc.",NCM,Biotechnology,USA
+AUO,AU Optronics Corp.,NYQ,Semiconductor - Broad Line,USA
+ATHM,Autohome Inc.,NYQ,Internet Information Providers,USA
+ATAX,"America First Multifamily Investors, L.P.",NMS,Mortgage Investment,USA
+ASM,Avino Silver & Gold Mines Ltd.,ASE,Industrial Metals & Minerals,USA
+AROC,"Archrock, Inc.",NYQ,,USA
+ANH,Anworth Mortgage Asset Corporation,NYQ,REIT - Diversified,USA
+ALX,"Alexander's, Inc.",NYQ,REIT - Retail,USA
+AHS,AMN Healthcare Services Inc.,NYQ,,USA
+AGI,Alamos Gold Inc.,NYQ,Gold,USA
+AER,AerCap Holdings N.V.,NYQ,"Air Services, Other",USA
+AE,"Adams Resources & Energy, Inc.",ASE,Oil & Gas Refining & Marketing,USA
+RHHBY,Roche Holding AG,PNK,,USA
+PETX,"Aratana Therapeutics, Inc.",NGM,Biotechnology,USA
+ODC,Oil-Dri Corporation of America,NYQ,Specialty Chemicals,USA
+NAO,Nordic American Offshore Ltd.,NYQ,Shipping,USA
+KAR,"KAR Auction Services, Inc.",NYQ,"Specialty Retail, Other",USA
+HUSA,Houston American Energy Corp.,ASE,Independent Oil & Gas,USA
+HIVE,"Aerohive Networks, Inc.",NYQ,Communication Equipment,USA
+FMS,Fresenius Medical Care AG & Co. KGAA,NYQ,Specialized Health Services,USA
+DOX,Amdocs Limited,NMS,Business Software & Services,USA
+CXW,"CoreCivic, Inc.",NYQ,REIT - Diversified,USA
+AZUR,"Azure Midstream Partners, LP",PNK,,USA
+AXS,AXIS Capital Holdings Limited,NYQ,Property & Casualty Insurance,USA
+AXL,"American Axle & Manufacturing Holdings, Inc.",NYQ,Auto Parts,USA
+AWX,Avalon Holdings Corporation,ASE,Waste Management,USA
+AVID,"Avid Technology, Inc.",NMS,Multimedia & Graphics Software,USA
+ASNA,"Ascena Retail Group, Inc.",NMS,Apparel Stores,USA
+ASGN,"On Assignment, Inc.",NYQ,Staffing & Outsourcing Services,USA
+ARDX,"Ardelyx, Inc.",NGM,Biotechnology,USA
+ARAY,Accuray Incorporated,NMS,Medical Appliances & Equipment,USA
+AQXP,"Aquinox Pharmaceuticals, Inc.",NGM,Drugs - Generic,USA
+APT,"Alpha Pro Tech, Ltd.",ASE,General Building Materials,USA
+APDN,"Applied DNA Sciences, Inc.",NCM,Security Software & Services,USA
+AMBC,"Ambac Financial Group, Inc.",NMS,Surety & Title Insurance,USA
+ALGT,Allegiant Travel Company,NMS,Regional Airlines,USA
+ALDW,"Alon USA Partners, LP",NYQ,Oil & Gas Refining & Marketing,USA
+AIT,"Applied Industrial Technologies, Inc.",NYQ,Industrial Equipment Wholesale,USA
+AIRM,Air Methods Corporation,NMS,,USA
+AIMC,Altra Industrial Motion Corp.,NMS,Industrial Electrical Equipment,USA
+AEL,American Equity Investment Life Holding Company,NYQ,Life Insurance,USA
+AEHR,Aehr Test Systems,NCM,Semiconductor Equipment & Materials,USA
+ADHD,Alcobra Ltd.,NGM,Biotechnology,USA
+ACUR,"Acura Pharmaceuticals, Inc.",PNK,Drug Delivery,USA
+ACHC,"Acadia Healthcare Company, Inc.",NMS,Specialized Health Services,USA
+ACFC,Atlantic Coast Financial Corporation,NGM,Regional - Southeast Banks,USA
+ACCO,ACCO Brands Corporation,NYQ,Office Supplies,USA
+ABY,Atlantica Yield plc,NMS,Electric Utilities,USA
+TA,TravelCenters of America LLC,NMS,"Specialty Retail, Other",USA
+RPAI,"Retail Properties of America, Inc.",NYQ,REIT - Retail,USA
+MANH,"Manhattan Associates, Inc.",NMS,Application Software,USA
+LAMR,Lamar Advertising Company,NMS,REIT - Diversified,USA
+KYN,Kayne Anderson MLP Investment Company,NYQ,,USA
+AXN,"Aoxing Pharmaceutical Company, Inc.",ASE,Drug Manufacturers - Major,USA
+ATRO,Astronics Corporation,NMS,Aerospace/Defense Products & Services,USA
+ATNI,"ATN International, Inc.",NMS,Telecom Services - Domestic,USA
+ARCW,"ARC Group Worldwide, Inc.",NCM,Metal Fabrication,USA
+APEI,"American Public Education, Inc.",NMS,Education & Training Services,USA
+AP,Ampco-Pittsburgh Corporation,NYQ,Diversified Machinery,USA
+ANIK,"Anika Therapeutics, Inc.",NMS,Biotechnology,USA
+ANGO,"AngioDynamics, Inc.",NMS,Medical Instruments & Supplies,USA
+AMTG,"Apollo Residential Mortgage, Inc.",NYQ,,USA
+AMSG,AmSurg Corp.,NMS,,USA
+AMOT,Allied Motion Technologies Inc.,NGM,Industrial Electrical Equipment,USA
+AM,Antero Midstream Partners LP,NYQ,Oil & Gas Pipelines,USA
+ALV,"Autoliv, Inc.",NYQ,Auto Parts,USA
+ALOG,Analogic Corporation,NMS,Medical Laboratories & Research,USA
+AKR,Acadia Realty Trust,NYQ,Property Management,USA
+AEGN,Aegion Corporation,NMS,Heavy Construction,USA
+ADS.DE,Adidas AG,GER,Textile - Apparel Footwear & Accessories,Germany
+ZLTQ,"ZELTIQ Aesthetics, Inc.",NMS,,USA
+WRLD,World Acceptance Corporation,NMS,Credit Services,USA
+UHAL,AMERCO,NMS,Rental & Leasing Services,USA
+UAMY,United States Antimony Corporation,ASE,Industrial Metals & Minerals,USA
+SAH,"Sonic Automotive, Inc.",NYQ,Auto Dealerships,USA
+RJET,Republic Airways Holdings Inc.,NMS,,USA
+NAII,"Natural Alternatives International, Inc.",NGM,Drug Related Products,USA
+AQNM,"Aquentium, Inc.",PNK,,USA
+CAS,A.M. Castle & Co.,NYQ,,USA
+CACC,Credit Acceptance Corporation,NMS,Credit Services,USA
+ATSG,"Air Transport Services Group, Inc.",NMS,Air Delivery & Freight Services,USA
+ASEI,American Science & Engineering Inc.,NMS,,USA
+ASB,Associated Banc-Corp,NYQ,Regional - Midwest Banks,USA
+ARTX,Arotech Corporation,NGM,Industrial Electrical Equipment,USA
+AROW,Arrow Financial Corporation,NMS,Regional - Northeast Banks,USA
+ARCB,ArcBest Corporation,NMS,Trucking,USA
+AMRK,"A-Mark Precious Metals, Inc.",NMS,Investment Brokerage - National,USA
+ALRM,"Alarm.Com Holdings, Inc.",NMS,Application Software,USA
+AHP,"Ashford Hospitality Prime, Inc.",NYQ,REIT - Hotel/Motel,USA
+AGRX,"Agile Therapeutics, Inc.",NGM,Drugs - Generic,USA
+AFAM,"Almost Family, Inc.",NMS,Home Health Care,USA
+ADK,"AdCare Health Systems, Inc.",ASE,Long-Term Care Facilities,USA
+ACSF,"American Capital Senior Floating, Ltd.",NMS,,USA
+ABTL,Autobytel Inc.,NCM,Internet Information Providers,USA
+ABGB,Abengoa SA,NMS,,USA
+ABEV,Ambev S.A.,NYQ,,USA
+ABCD,"Cambium Learning Group, Inc.",NCM,Education & Training Services,USA
+AAOI,"Applied Optoelectronics, Inc.",NGM,Semiconductor - Integrated Circuits,USA
+USAP,Universal Stainless & Alloy Products Inc,NMS,Steel & Iron,USA
+STFC,State Auto Financial Corporation,NMS,Property & Casualty Insurance,USA
+STAY,"Extended Stay America, Inc.",NYQ,Lodging,USA
+SEED,Origin Agritech Limited,NMS,Farm Products,USA
+RGA,"Reinsurance Group of America, Incorporated",NYQ,Life Insurance,USA
+IDSA,"Industrial Services of America, Inc.",NCM,Waste Management,USA
+HART,"Harvard Apparatus Regenerative Technology, Inc.",NCM,,USA
+CH,"Aberdeen Chile Fund, Inc.",ASE,,USA
+CEA,China Eastern Airlines Corporation Limited,NYQ,Major Airlines,USA
+BREW,"Craft Brew Alliance, Inc.",NMS,Beverages - Brewers,USA
+AXR,AMREP Corporation,NYQ,Business Services,USA
+AVG,AVG Technologies N.V.,NYQ,,USA
+AVD,American Vanguard Corporation,NYQ,Agricultural Chemicals,USA
+AUDC,AudioCodes Ltd.,NMS,Communication Equipment,USA
+ATRI,Atrion Corporation,NMS,Medical Instruments & Supplies,USA
+ATOS,Atossa Genetics Inc.,NCM,Diagnostic Substances,USA
+ARC,"ARC Document Solutions, Inc.",NYQ,Business Services,USA
+APIC,Apigee Corporation,NMS,,USA
+AOSL,Alpha and Omega Semiconductor Limited,NMS,Semiconductor - Specialized,USA
+AOI,"Alliance One International, Inc.",NYQ,"Tobacco Products, Other",USA
+AMWD,American Woodmark Corporation,NMS,Home Furnishings & Fixtures,USA
+ALXA,Alexza Pharmaceuticals Inc.,NCM,,USA
+ALLY,Ally Financial Inc.,NYQ,Mortgage Investment,USA
+AIRI,Air Industries Group,ASE,Aerospace/Defense Products & Services,USA
+AFOP,Alliance Fiber Optic Products Inc.,NGM,,USA
+ACGL,Arch Capital Group Ltd.,NMS,Property & Casualty Insurance,USA
+ACFN,"Acorn Energy, Inc.",PNK,Aerospace/Defense Products & Services,USA
+ABR,"Arbor Realty Trust, Inc.",NYQ,REIT - Diversified,USA
+ABCB,Ameris Bancorp,NMS,Regional - Mid-Atlantic Banks,USA
+SAMG,Silvercrest Asset Management Group Inc.,NGM,,USA
+REXI,"Resource America, Inc.",NMS,,USA
+RAIL,"FreightCar America, Inc.",NMS,Railroads,USA
+NSAM,Northstar Asset Management Group Inc.,NYQ,,USA
+MITT,"AG Mortgage Investment Trust, Inc.",NYQ,REIT - Diversified,USA
+LCM,Advent/Claymore Enhanced Growth & Income Fund,NYQ,,USA
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",NYQ,REIT - Diversified,USA
+GOL,GOL Linhas AÃ©reas Inteligentes S.A.,NYQ,Regional Airlines,USA
+GIL,Gildan Activewear Inc.,NYQ,Textile - Apparel Clothing,USA
+EAD,Wells Fargo Advantage Funds - Wells Fargo Income Opportunities Fund,ASE,,USA
+ATTO,Atento S.A.,NYQ,Business Services,USA
+ATR,"AptarGroup, Inc.",NYQ,Packaging & Containers,USA
+ATNM,"Actinium Pharmaceuticals, Inc.",ASE,Biotechnology,USA
+ASTC,Astrotech Corporation,NCM,Aerospace/Defense Products & Services,USA
+ASR,"Grupo Aeroportuario del Sureste, S. A. B. de C. V.",NYQ,"Air Services, Other",USA
+ASC,Ardmore Shipping Corporation,NYQ,Shipping,USA
+ARTNA,Artesian Resources Corporation,NMS,Water Utilities,USA
+ARGS,"Argos Therapeutics, Inc.",NGM,,USA
+AOD,Alpine Total Dynamic Dividend Fund,NYQ,,USA
+AGNCP,AGNC Investment Corp.,NMS,,USA
+ADRO,"Aduro BioTech, Inc.",NMS,Biotechnology,USA
+ACNB,ACNB Corporation,NCM,Regional - Southwest Banks,USA
+AAV,Advantage Oil & Gas Ltd.,NYQ,Oil & Gas Drilling & Exploration,USA
+AAT,"American Assets Trust, Inc.",NYQ,REIT - Retail,USA
+ZNH,China Southern Airlines Company Limited,NYQ,Major Airlines,USA
+UAM,Universal American Corp.,NYQ,,USA
+NTT,Nippon Telegraph and Telephone Corporation,NYQ,,USA
+NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",NYQ,,USA
+LNT,Alliant Energy Corporation,NYQ,Electric Utilities,USA
+KALU,Kaiser Aluminum Corporation,NMS,Aluminum,USA
+HOMB,"Home Bancshares, Inc. (Conway, AR)",NMS,Money Center Banks,USA
+HIX,Western Asset High Income Fund II Inc.,NYQ,,USA
+FAF,First American Financial Corporation,NYQ,Property & Casualty Insurance,USA
+FAC,First Acceptance Corporation,NYQ,Accident & Health Insurance,USA
+EGT,Entertainment Gaming Asia Inc.,NCM,,USA
+CAAS,"China Automotive Systems, Inc.",NCM,Auto Parts,USA
+BGR,BlackRock Energy and Resources Trust,NYQ,,USA
+BETR,"Amplify Snack Brands, Inc.",NYQ,Food - Major Diversified,USA
+AUPH,Aurinia Pharmaceuticals Inc.,NGM,,USA
+ATV,"Acorn International, Inc.",NYQ,Catalog & Mail Order Houses,USA
+ATLC,Atlanticus Holdings Corporation,NMS,Credit Services,USA
+AST,"Asterias Biotherapeutics, Inc.",ASE,Biotechnology,USA
+ARIS,"ARI Network Services, Inc.",NCM,Application Software,USA
+ARCI,"Appliance Recycling Centers of America, Inc.",NCM,Electronics Stores,USA
+APLE,"Apple Hospitality REIT, Inc.",NYQ,,USA
+ANY,Sphere 3D Corp.,NCM,Application Software,USA
+ANIP,"ANI Pharmaceuticals, Inc.",NGM,Biotechnology,USA
+AMSWA,"American Software, Inc.",NMS,Application Software,USA
+AMSF,"Amerisafe, Inc.",NMS,Property & Casualty Insurance,USA
+ALLT,Allot Communications Ltd.,NMS,Communication Equipment,USA
+AKTX,"Akari Therapeutics, Plc",NCM,Drugs - Generic,USA
+AGYS,"Agilysys, Inc.",NMS,Application Software,USA
+AGTC,Applied Genetic Technologies Corporation,NGM,,USA
+AFG,"American Financial Group, Inc.",NYQ,Property & Casualty Insurance,USA
+ADDYY,Adidas AG,PNK,,USA
+AAVL,"Avalanche Biotechnologies, Inc.",NGM,,USA
+WAIR,"Wesco Aircraft Holdings, Inc.",NYQ,Industrial Equipment Wholesale,USA
+RESI,Altisource Residential Corporation,NYQ,REIT - Residential,USA
+LND,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,NYQ,Property Management,USA
+LFL,LATAM Airlines Group S.A.,NYQ,,USA
+HRT,"Micron Solutions, Inc.",ASE,,USA
+ESD,Western Asset Emerging Markets Debt Fund Inc.,NYQ,,USA
+ECF,Ellsworth Growth and Income Fund Ltd.,ASE,,USA
+DGLY,"Digital Ally, Inc.",NCM,Scientific & Technical Instruments,USA
+CIK,"Credit Suisse Asset Management Income Fund, Inc.",ASE,,USA
+CII,"BlackRock Enhanced Capital and Income Fund, Inc.",NYQ,,USA
+CHOP,China Gerui Advanced Materials Group Ltd.,NMS,,USA
+CCD,Calamos Dynamic Convertible and Income Fund,NMS,,USA
+CADC,"China Advanced Construction Materials Group, Inc.",NCM,General Building Materials,USA
+AYA,The Stars Group Inc.,NMS,,USA
+AWRE,"Aware, Inc.",NGM,Application Software,USA
+AVV,Aviva plc Subordinated Capital,NYQ,,USA
+AVNW,"Aviat Networks, Inc.",NMS,Communication Equipment,USA
+ATRM,"ATRM Holdings, Inc.",PNK,Technical Services,USA
+APPF,"AppFolio, Inc.",NGM,Application Software,USA
+AFFMQ,Affirmative Insurance Holdings Inc.,PNK,,USA
+AMRI,"Albany Molecular Research, Inc.",NMS,Biotechnology,USA
+AMCN,AirMedia Group Inc.,NMS,Marketing Services,USA
+AMCF,Andatee China Marine Fuel Services Corporation,PNK,Oil & Gas Equipment & Services,USA
+ALTI,"Altair Nanotechnologies, Inc.",PNK,,USA
+ALLE,Allegion plc,NYQ,Security & Protection Services,USA
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",NYQ,Aerospace/Defense - Major Diversified,USA
+AHH,"Armada Hoffler Properties, Inc.",NYQ,REIT - Diversified,USA
+AGM,Federal Agricultural Mortgage Corporation,NYQ,Credit Services,USA
+AGII,"Argo Group International Holdings, Ltd.",NMS,Property & Casualty Insurance,USA
+AFCB,Athens Bancshares Corporation,PNK,Regional - Southeast Banks,USA
+AEPI,AEP Industries Inc.,NMS,,USA
+ADMA,"ADMA Biologics, Inc.",NCM,Biotechnology,USA
+ABCW,Anchor BanCorp Wisconsin Inc.,NMS,,USA
+AAME,Atlantic American Corporation,NGM,Life Insurance,USA
+TEO,Telecom Argentina S.A.,NYQ,Diversified Communication Services,USA
+SRAQU,Silver Run Acquisition,NMS,,USA
+SINO,"Sino-Global Shipping America, Ltd.",NCM,Air Delivery & Freight Services,USA
+OMAB,"Grupo Aeroportuario del Centro Norte, S. A. B. de C. V.",NMS,,USA
+NOA,North American Energy Partners Inc.,NYQ,Oil & Gas Equipment & Services,USA
+NCZ,AllianzGI Convertible & Income Fund II,NYQ,,USA
+MTT,Western Asset Municipal Defined Opportunity Trust Inc.,NYQ,,USA
+MHG,Marine Harvest ASA,NYQ,,USA
+JAGX,"Jaguar Health, Inc.",NCM,Biotechnology,USA
+ISL,"Aberdeen Israel Fund, Inc.",ASE,,USA
+HIO,Western Asset High Income Opportunity Fund Inc.,NYQ,,USA
+GRR,"The Asia Tigers Fund, Inc.",NYQ,,USA
+FAX,"Aberdeen Asia-Pacific Income Fund, Inc.",ASE,,USA
+ENL,Reed Elsevier NV,NYQ,,USA
+DIT,AMCON Distributing Company,ASE,Food Wholesale,USA
+CRMT,"America's Car-Mart, Inc.",NMS,Auto Dealerships,USA
+CRESY,"Cresud Sociedad Anónima Comercial, Inmobiliaria, Financiera y Agropecuaria",NMS,,USA
+CGA,"China Green Agriculture, Inc.",NYQ,Agricultural Chemicals,USA
+CAF,"Morgan Stanley China A Share Fund, Inc.",NYQ,,USA
+ATRA,"Atara Biotherapeutics, Inc.",NMS,,USA
+ATEN,"A10 Networks, Inc.",NYQ,Communication Equipment,USA
+ATEC,"Alphatec Holdings, Inc.",NMS,,USA
+ARLZ,Aralez Pharmaceuticals Inc.,NMS,,USA
+ARII,"American Railcar Industries, Inc.",NMS,Railroads,USA
+ARDM,Aradigm Corporation,NCM,Drug Delivery,USA
+ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",NYQ,,USA
+ARCX,Arc Logistics Partners LP,NYQ,Oil & Gas Pipelines,USA
+APPS,"Digital Turbine, Inc.",NCM,Application Software,USA
+APHB,AmpliPhi Biosciences Corporation,ASE,Biotechnology,USA
+ANW,Aegean Marine Petroleum Network Inc.,NYQ,Major Integrated Oil & Gas,USA
+ANAT,American National Insurance Company,NMS,Property & Casualty Insurance,USA
+ANAD,"Anadigics, Inc.",NCM,,USA
+AKAO,"Achaogen, Inc.",NGM,Biotechnology,USA
+AGHI,"Agora Holdings, Inc.",PNK,,USA
+AETI,"American Electric Technologies, Inc",NCM,Industrial Electrical Equipment,USA
+AEB,AEGON N.V.,NYQ,,USA
+ADPT,Adeptus Health Inc.,NYQ,,USA
+ADMP,Adamis Pharmaceuticals Corporation,NCM,Drug Delivery,USA
+ACRS,"Aclaris Therapeutics, Inc.",NMS,,USA
+ACC,"American Campus Communities, Inc.",NYQ,REIT - Residential,USA
+ABEOW,Abeona Therapeutics Inc.,NCM,,USA
+ABDC,Alcentra Capital Corporation,NMS,,USA
+REX,REX American Resources Corporation,NYQ,Conglomerates,USA
+PAC,"Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",NYQ,"Air Services, Other",USA
+NNA,Navios Maritime Acquisition Corporation,NYQ,Shipping,USA
+NAUH,"National American University Holdings, Inc.",NGM,Education & Training Services,USA
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,NYQ,,USA
+HMNY,Helios and Matheson Analytics Inc.,NCM,Information Technology Services,USA
+GABC,"German American Bancorp, Inc.",NMS,Regional - Midwest Banks,USA
+ERH,Wells Fargo Advantage Utilities and High Income Fund,ASE,,USA
+EPAX,Ambassadors Group Inc.,NMS,,USA
+CACQ,Caesars Acquisition Company,NMS,Resorts & Casinos,USA
+BTI,British American Tobacco p.l.c.,NYQ,Cigarettes,USA
+AXPW,"Axion Power International, Inc.",PNK,Industrial Electrical Equipment,USA
+AWF,AllianceBernstein Global High Income Fund,NYQ,,USA
+AVX,AVX Corporation,NYQ,Diversified Electronics,USA
+ASUR,"Asure Software, Inc.",NCM,Business Software & Services,USA
+ASMB,"Assembly Biosciences, Inc.",NCM,Drug Manufacturers - Major,USA
+ASFI,"Asta Funding, Inc.",NMS,Business Services,USA
+ASCMA,"Ascent Capital Group, Inc.",NMS,Security & Protection Services,USA
+ASCC,Aristocrat Group Corp.,PNK,Personal Services,USA
+ARES,"Ares Management, L.P.",NYQ,Asset Management,USA
+ARCP,"VEREIT, Inc.",NMS,,USA
+AQMS,"Aqua Metals, Inc.",NCM,Waste Management,USA
+ANCB,Anchor Bancorp,NGM,Savings & Loans,USA
+AMRC,"Ameresco, Inc.",NYQ,Technical Services,USA
+AMOV,"América Móvil, S.A.B. de C.V.",NYQ,,USA
+AKG,Asanko Gold Inc.,ASE,Gold,USA
+AFW,"American Financial Group, Inc.",NYQ,,USA
+ACY,AeroCentury Corp.,ASE,Rental & Leasing Services,USA
+ACPW,"Active Power, Inc.",NCM,,USA
+ABIO,"ARCA biopharma, Inc.",NCM,Biotechnology,USA
+AAC,"AAC Holdings, Inc.",NYQ,Specialized Health Services,USA
+XKE,"Lehman ABS Corp., Corporate Backed Trust Certs, Toys ""R"" Us Debenture-Backed Series 2001-31 Trust",NYQ,,USA
+VLRS,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",NYQ,Major Airlines,USA
+PRA.AX,Thred Limited,ASX,,Australia
+TEAM,Atlassian Corporation Plc,NMS,Information Technology Services,USA
+SORL,"SORL Auto Parts, Inc.",NGM,Auto Manufacturers - Major,USA
+NEN,New England Realty Associates LP,ASE,Real Estate Development,USA
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYQ,,USA
+LMIA,"LMI Aerospace, Inc.",NMS,,USA
+JEQ,"Aberdeen Japan Equity Fund, Inc.",NYQ,,USA
+IGA,Voya Global Advantage and Premium Opportunity Fund,NYQ,,USA
+IDE,"Voya Infrastructure, Industrials and Materials Fund",NYQ,,USA
+GBAB,Guggenheim Taxable Municipal Managed Duration Trust,NYQ,,USA
+FWP,Forward Pharma A/S,NMS,Biotechnology,USA
+EVTC,"EVERTEC, Inc.",NYQ,Business Software & Services,USA
+CMGE,China Mobile Games and Entertainment Group Limited,NGM,,USA
+CHY,Calamos Convertible and High Income Fund,NMS,,USA
+CADTU,DT Asia Investments Limited,NCM,,USA
+BTZ,BlackRock Credit Allocation Income Trust,NYQ,,USA
+BAYN.DE,Bayer Aktiengesellschaft,GER,Drug Manufacturers - Major,Germany
+AXU,Alexco Resource Corp.,ASE,Industrial Metals & Minerals,USA
+AWP,Alpine Global Premier Properties Fund,NYQ,,USA
+ATE,Advantest Corporation,NYQ,,USA
+ATAI,ATA Inc.,NGM,Education & Training Services,USA
+ARQL,"ArQule, Inc.",NGM,Biotechnology,USA
+ARKR,Ark Restaurants Corp.,NGM,Restaurants,USA
+APP,"American Apparel, Inc.",ASE,,USA
+APLP,"Archrock Partners, L.P.",NMS,,USA
+APF,"Morgan Stanley Asia-Pacific Fund, Inc.",NYQ,,USA
+APB,"The Asia Pacific Fund, Inc.",NYQ,,USA
+AMRB,American River Bankshares,NMS,Regional - Pacific Banks,USA
+AMBR,"Amber Road, Inc.",NYQ,Application Software,USA
+ALU.PA,Alcatel-Lucent,PAR,,France
+ALQA,"Alliqua BioMedical, Inc.",NCM,Drug Manufacturers - Major,USA
+ALOT,"AstroNova, Inc.",NGM,Computer Peripherals,USA
+AKER,"Akers Biosciences, Inc.",NCM,,USA
+AIB,Apollo Investment Corporation,NYQ,,USA
+AHPI,"Allied Healthcare Products, Inc.",NCM,Medical Appliances & Equipment,USA
+AGRO,Adecoagro S.A.,NYQ,Farm Products,USA
+AFST,"AmTrust Financial Services, Inc.",NYQ,,USA
+ADX,"Adams Diversified Equity Fund, Inc.",NYQ,Closed-End Fund - Equity,USA
+ADGE,American DG Energy Inc.,ASE,,USA
+ADAT,Authentidate Holding Corp.,PNK,Healthcare Information Services,USA
+ADAP,Adaptimmune Therapeutics plc,NMS,Biotechnology,USA
+ACU,Acme United Corporation,ASE,Housewares & Accessories,USA
+ACTS,"Actions Semiconductor Co., Ltd.",NMS,,USA
+WJA.TO,WestJet Airlines Ltd.,TOR,Major Airlines,Canada
+VLKAY,Volkswagen Aktiengesellschaft,PNK,,USA
+TKC,Turkcell Iletisim Hizmetleri A.S.,NYQ,Wireless Communications,USA
+AQQSQ,American Spectrum Realty Inc.,PNK,,USA
+SCOK,"SinoCoking Coal and Coke Chemical Industries, Inc.",NCM,,USA
+RZA,"Reinsurance Group of America, Incorporated",NYQ,,USA
+PWX,Providence and Worcester Railroad Company,NGM,,USA
+PRTS,"U.S. Auto Parts Network, Inc.",NMS,"Specialty Retail, Other",USA
+POPE,"Pope Resources, A Delaware Limited Partnership",NCM,"Lumber, Wood Production",USA
+PEO,"Adams Natural Resources Fund, Inc.",NYQ,Closed-End Fund - Equity,USA
+OASM,Oasmia Pharmaceutical AB (publ),NCM,,USA
+NCV,AllianzGI Convertible & Income Fund,NYQ,,USA
+NBB,Nuveen Build America Bond Fund,NYQ,,USA
+NADL,North Atlantic Drilling Ltd.,NYQ,Oil & Gas Drilling & Exploration,USA
+MHY,Western Asset Managed High Income Fund Inc.,NYQ,,USA
+MHF,Western Asset Municipal High Income Fund Inc.,NYQ,,USA
+IOTS,Adesto Technologies Corporation,NCM,,USA
+HYB,The New America High Income Fund Inc.,NYQ,,USA
+GAM,"General American Investors Company, Inc.",NYQ,Closed-End Fund - Equity,USA
+EOD,Wells Fargo Advantage Funds - Wells Fargo Global Dividend Opportunity Fund,NYQ,,USA
+EAGL,Double Eagle Acquisition Corp.,NCM,Conglomerates,USA
+DLA,"Delta Apparel, Inc.",ASE,Textile - Apparel Clothing,USA
+CBA,ClearBridge American Energy MLP Fund Inc.,NYQ,,USA
+BRKS,"Brooks Automation, Inc.",NMS,Semiconductor Equipment & Materials,USA
+AVK,Advent Claymore Convertible Securities and Income Fund,NYQ,,USA
+AUMAU,AR Capital Acquisition Corp.,NCM,,USA
+AUBN,"Auburn National Bancorporation, Inc.",NGM,Regional - Southeast Banks,USA
+ASYS,"Amtech Systems, Inc.",NMS,Semiconductor Equipment & Materials,USA
+ASA,ASA Gold and Precious Metals Limited,NYQ,Asset Management,USA
+AMPH,"Amphastar Pharmaceuticals, Inc.",NMS,Drug Manufacturers - Other,USA
+AMIC,American Independence Corp.,NCM,,USA
+AMFW,Amec Foster Wheeler plc,NYQ,,USA
+ALJJ,"ALJ Regional Holdings, Inc.",NGM,,USA
+ALDX,"Aldeyra Therapeutics, Inc.",NCM,Biotechnology,USA
+AGR,"Avangrid, Inc.",NYQ,,USA
+AGD,Alpine Global Dynamic Dividend Fund,NYQ,,USA
+AFC,Allied Capital Corporation,NYQ,,USA
+AFA,"American Financial Group, Inc.",NYQ,,USA
+AEY,"ADDvantage Technologies Group, Inc.",NGM,Electronics Wholesale,USA
+AEK,AEGON N.V.,NYQ,,USA
+ADVS,"Advent Software, Inc.",NMS,,USA
+ABUS,Arbutus Biopharma Corporation,NMS,Biotechnology,USA
+ABLX.BR,Ablynx NV,BRU,Biotechnology,Belgium
+AAPC,Atlantic Alliance Partnership Corp.,NCM,Conglomerates,USA
+TANN,TravelCenters of America LLC,NYQ,,USA
+SHOS,"Sears Hometown and Outlet Stores, Inc.",NCM,Department Stores,USA
+RYAM,Rayonier Advanced Materials Inc.,NYQ,Chemicals - Major Diversified,USA
+RJETQ,Republic Airways Holdings Inc.,PNK,,USA
+PAHC,Phibro Animal Health Corporation,NGM,Specialized Health Services,USA
+NAC,Nuveen California Quality Municipal Income Fund,NYQ,,USA
+MZA,"BlackRock MuniYield Arizona Fund, Inc.",ASE,,USA
+MGR,"Affiliated Managers Group, Inc.",NYQ,,USA
+HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYQ,,USA
+GNOW,"American Caresource Holdings, Inc.",PNK,,USA
+FWRD,Forward Air Corporation,NMS,Air Delivery & Freight Services,USA
+FEN,First Trust Energy Income and Growth Fund,ASE,,USA
+FEI,First Trust MLP and Energy Income Fund,NYQ,,USA
+DAI.DE,Daimler AG,GER,Auto Manufacturers - Major,Germany
+CHLN,"China Housing and Land Development, Inc.",NCM,,USA
+CALI,China Auto Logistics Inc.,NCM,Auto Dealerships,USA
+AXON,Axovant Sciences Ltd.,NYQ,Biotechnology,USA
+AXGN,"AxoGen, Inc.",NCM,Medical Appliances & Equipment,USA
+AVH,Avianca Holdings S.A.,NYQ,,USA
+AVAL,Grupo Aval Acciones Y Valores S.A.,NYQ,,USA
+AUMN,Golden Minerals Company,ASE,Industrial Metals & Minerals,USA
+ATL,Atlatsa Resources Corporation,PNK,,USA
+ASRVP,Ameriserv Financial Capital Trust I,NGM,,USA
+ASRV,"AmeriServ Financial, Inc.",NGM,Regional - Northeast Banks,USA
+ASBI,Ameriana Bancorp,NCM,,USA
+ASBB,"ASB Bancorp, Inc.",NGM,Regional - Mid-Atlantic Banks,USA
+ARTW,"Art's-Way Manufacturing Co., Inc.",NCM,Farm & Construction Machinery,USA
+APWC,Asia Pacific Wire & Cable Corporation Limited,NGM,Industrial Electrical Equipment,USA
+APAM,Artisan Partners Asset Management Inc.,NYQ,Asset Management,USA
+AMS,American Shared Hospital Services,ASE,Specialized Health Services,USA
+AMFC,AMB Financial Corp.,OBB,Savings & Loans,USA
+ALN,American Lorain Corporation,ASE,Processed & Packaged Goods,USA
+AGFS,"AgroFresh Solutions, Inc.",NMS,Conglomerates,USA
+AFGE,"American Financial Group, Inc.",NYQ,,USA
+AEMD,"Aethlon Medical, Inc.",NCM,Medical Appliances & Equipment,USA
+ADNC,"Audience, Inc.",NMS,,USA
+ACV,AllianzGI Diversified Income & Convertible Fund,NYQ,,USA
+ACG,AllianceBernstein Income Fund,NYQ,,USA
+ACBI,"Atlantic Capital Bancshares, Inc.",NMS,,USA
+ABTX,"Allegiance Bancshares, Inc.",NGM,,USA
+AAMC,Altisource Asset Management Corporation,ASE,Asset Management,USA
+UNAM,Unico American Corporation,NGM,Property & Casualty Insurance,USA
+TVE,Tennessee Valley Authority,NYQ,,USA
+TVC,Tennessee Valley Authority,NYQ,,USA
+SGF,"Aberdeen Singapore Fund, Inc.",NYQ,,USA
+SCAI,"Surgical Care Affiliates, Inc.",NMS,,USA
+HVCW,Harrison Vickers and Waterman Inc.,PNK,Mortgage Investment,USA
+OMAM,OM Asset Management plc,NYQ,,USA
+NSA,National Storage Affiliates Trust,NYQ,,USA
+NKG,Nuveen Georgia Quality Municipal Income Fund,NYQ,,USA
+NAD,Nuveen Quality Municipal Income Fund,NYQ,,USA
+MTGEP,MTGE Investment Corp.,NMS,,USA
+MPAA,"Motorcar Parts of America, Inc.",NMS,Auto Parts,USA
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",NYQ,,USA
+JRI,Nuveen Real Asset Income and Growth Fund,NYQ,,USA
+JAX,"J. Alexander's Holdings, Inc.",NYQ,Restaurants,USA
+IF,"Aberdeen Indonesia Fund, Inc.",ASE,,USA
+GGM,Guggenheim Credit Allocation Fund,NYQ,,USA
+ETF,"Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",ASE,,USA
+EARS,Auris Medical Holding AG,NGM,Biotechnology,USA
+EADSY,Airbus SE,PNK,,USA
+DMO,Western Asset Mortgage Defined Opportunity Fund Inc.,NYQ,,USA
+DEX,Delaware Enhanced Global Dividend and Income Fund,NYQ,,USA
+AZSEY,Allianz SE,PNK,,USA
+AXX,Alderon Iron Ore Corp.,ASE,,USA
+AXTI,"AXT, Inc.",NMS,Semiconductor - Integrated Circuits,USA
+AVXS,"AveXis, Inc.",NMS,,USA
+AUQ,AuRico Gold Inc.,NYQ,,USA
+ATTU,Attunity Ltd.,NCM,Technical & System Software,USA
+ATLO,Ames National Corporation,NCM,Regional - Northeast Banks,USA
+ASTE,"Astec Industries, Inc.",NMS,Farm & Construction Machinery,USA
+ASND,Ascendis Pharma A/S,NMS,Biotechnology,USA
+ARL,"American Realty Investors, Inc.",NYQ,Property Management,USA
+APTO,Aptose Biosciences Inc.,NCM,,USA
+AMTX,"Aemetis, Inc.",NGM,Specialty Chemicals,USA
+AKP,"Alliance California Municipal Income Fund, Inc.",NYQ,,USA
+AI.PA,"Air Liquide, société anonyme",PAR,Chemicals - Major Diversified,France
+AGIIL,"Argo Group US, Inc.",NMS,,USA
+AFMD,Affimed N.V.,NGM,Biotechnology,USA
+AFFY,"Affymax, Inc.",PNK,Biotechnology,USA
+AFB,AllianceBernstein National Municipal Income Fund,NYQ,,USA
+AEUA,Anadarko Petroleum Corporation,NYQ,,USA
+ADEP,Adept Technology Inc.,NCM,,USA
+ABIL,Ability Inc.,NCM,,USA
+ABAC,"Aoxin Tianli Group, Inc.",NCM,,USA
+WIW,Western Asset/Claymore Inflation-Linked Opportunities & Income Fund,NYQ,,USA
+WGA,AG&E Holdings Inc.,ASE,,USA
+TRAN.BA,Compañía de Transporte de Energía Eléctrica en Alta Tensión Transener S.A.,BUE,Electric Utilities,Argentina
+ICG.AX,Inca Minerals Limited,ASX,Industrial Metals & Minerals,Australia
+SBI,Western Asset Intermediate Muni Fund Inc.,ASE,,USA
+RKDA,"Arcadia Biosciences, Inc.",NCM,Agricultural Chemicals,USA
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",NYQ,,USA
+NAZ,Nuveen Arizona Quality Municipal Income Fund,NYQ,,USA
+MNP,Western Asset Municipal Partners Fund Inc.,NYQ,,USA
+MMU,Western Asset Managed Municipals Fund Inc.,NYQ,,USA
+DLS.AX,"Drillsearch Energy, Ltd.",ASX,,Australia
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,NYQ,,USA
+IPCC,Infinity Property and Casualty Corporation,NMS,Property & Casualty Insurance,USA
+IAF,"Aberdeen Australia Equity Fund, Inc.",ASE,,USA
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,NYQ,,USA
+GCP,GCP Applied Technologies Inc.,NYQ,,USA
+FTAI,Fortress Transportation and Infrastructure Investors LLC,NYQ,Rental & Leasing Services,USA
+FNTCU,FNTCU,NMS,,USA
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,NYQ,,USA
+FCO,"Aberdeen Global Income Fund, Inc.",ASE,,USA
+EMD,Western Asset Emerging Markets Debt Fund Inc.,NYQ,,USA
+EAA,"Entergy Arkansas, Inc. First Mo",NYQ,,USA
+DDAIF,Daimler AG,PNK,,USA
+QED.L,Quintain Estates and Development plc,LSE,,United Kingdom
+CHI,Calamos Convertible Opportunities and Income Fund,NMS,,USA
+CEE,"The Central and Eastern Europe Fund, Inc.",NYQ,,USA
+CADTW,,,,
+BUI,BlackRock Utility and Infrastructure Trust,NYQ,,USA
+AXSM,"Axsome Therapeutics, Inc.",NGM,,USA
+ANOS,Anoteros Inc.,PNK,,USA
+ANCI,"American Caresource Holdings, Inc.",NCM,,USA
+ALTV,"Alteva, Inc.",ASE,,USA
+ALAN,"Alanco Technologies, Inc.",PNK,Data Storage Devices,USA
+AKZOY,Akzo Nobel N.V.,PNK,,USA
+AKO-A,Embotelladora Andina S.A.,NYQ,Beverages - Soft Drinks,USA
+AJX,Great Ajax Corp,NYQ,REIT - Diversified,USA
+AGNCB,AGNC Investment Corp.,NMS,,USA
+AFSD,Aflac Incorporated,NYQ,,USA
+AFH,"Atlas Financial Holdings, Inc.",NGM,Property & Casualty Insurance,USA
+AEGG,"The American Energy Group, Ltd.",PNK,Oil & Gas Drilling & Exploration,USA
+ACP,Avenue Income Credit Strategies Fund,NYQ,,USA
+ABRN,"Arbor Realty Trust, Inc.",NYQ,,USA
+CLA.AX,Celsius Resources Limited,ASX,Industrial Metals & Minerals,Australia
+WRN,Western Copper and Gold Corporation,ASE,,USA
+USA,Columbia Funds Trust XII - Liberty All Star Equity Fund,NYQ,,USA
+OXXCB.AX,Octanex N.L.,ASX,,Australia
+CBS.AX,Cabral Resources Limited,ASX,,Australia
+PHX,Panhandle Oil and Gas Inc.,NYQ,Independent Oil & Gas,USA
+NZH,Nuveen California Dividend Advantage Municipal Fund 3,ASE,,USA
+KYE,"Kayne Anderson Energy Total Return Fund, Inc.",NYQ,,USA
+KLREU,KLR Energy Acquisition,NCM,,USA
+JCE,Nuveen Core Equity Alpha Fund,NYQ,,USA
+JBR,Corporate Backed Call Trust Certificates,NYQ,,USA
+JBK,"Corporate Backed Trust Certificates, Goldman Sachs Capital I Securities-Backed Series 2004-6",NYQ,,USA
+IGZ,IGZ (Listing Market NYSE Arca N,ASE,,USA
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,NYQ,,USA
+HOPS,"Appalachian Mountain Brewery, Inc.",PNK,,USA
+HDRA,"Inspired Entertainment, Inc.",NCM,,USA
+GS.TO,Gluskin Sheff + Associates Inc.,TOR,Independent Oil & Gas,Canada
+GRO,Agria Corporation,NYQ,,USA
+GPACU,Global Partner Acquisition Corp.,NCM,,USA
+GER,Goldman Sachs MLP and Energy Renaissance Fund,NYQ,,USA
+ELEC,Electrum Special Acquisition Corporation,NCM,,USA
+EGIF,Eagle Growth & Income Opportunities Fund,NYQ,,USA
+DYSL,Dynasil Corporation of America,NCM,Scientific & Technical Instruments,USA
+CNLM,Charlemagne Capital Limited,NCM,,USA
+CLAC,Capitol Acquisition Corp. III,NCM,,USA
+CACG,ClearBridge All Cap Growth ETF,NGM,,USA
+BTA,BlackRock Long-Term Municipal Advantage Trust,NYQ,,USA
+BRSS,"Global Brass and Copper Holdings, Inc.",NYQ,Metal Fabrication,USA
+BLVDW,Boulevard Acquisition Corp. II,NCM,,USA
+BLVD,Boulevard Acquisition Corp. II,NCM,Conglomerates,USA
+AYA.TO,The Stars Group Inc.,TOR,,Canada
+AVLY,"Allegheny Valley Bancorp, Inc.",PNK,,USA
+AUMAW,Axar Acquisition Corp.,NCM,,USA
+ATP.TO,Atlantic Power Corporation,TOR,Diversified Utilities,Canada
+ASMI,ASM International NV,NMS,,USA
+ASKH,"Astika Holdings, Inc.",PNK,Music & Video Stores,USA
+ARUN,"Aruba Networks, Inc.",NMS,,USA
+AREN,PetroGas Company,PNK,,USA
+ARCPP,"American Realty Capital Properties, Inc.",NMS,,USA
+AMSGP,AmSurg Corp.,NMS,,USA
+AMRH,"AMERI Holdings, Inc.",PNK,,USA
+ALTX,"Altex Industries, Inc.",PNK,Independent Oil & Gas,USA
+ALA.TO,AltaGas Ltd.,TOR,Oil & Gas Pipelines,Canada
+AKG.TO,Asanko Gold Inc.,TOR,Gold,Canada
+AIY,Apollo Investment Corporation,NYQ,,USA
+AIR.PA,Airbus SE,PAR,,France
+AIMT,"Aimmune Therapeutics, Inc.",NMS,Biotechnology,USA
+AIF,Apollo Tactical Income Fund Inc.,NYQ,,USA
+AERG,"Applied Energetics, Inc.",PNK,Scientific & Technical Instruments,USA
+AED,AEGON N.V.,NYQ,,USA
+ADXSW,"Advaxis, Inc.",NCM,,USA
+ACLZ,Accelerize Inc.,OBB,Internet Information Providers,USA
+ABX.TO,Barrick Gold Corporation,TOR,Gold,Canada
+ABAT,"Advanced Battery Technologies, Inc.",PNK,,USA
+AAAP,Advanced Accelerator Applications S.A.,NMS,,USA
+6599.KL,Aeon Co. (M) Bhd,KLS,,Malaysia
+WIA,Western Asset/Claymore Inflation-Linked Securities & Income Fund,NYQ,,USA
+WEA,Western Asset Premier Bond Fund,NYQ,,USA
+VKI,Invesco Advantage Municipal Income Trust II,ASE,,USA
+VELCP.AX,Vealls Limited,ASX,Asset Management,Australia
+TRTLW,,,,
+TRTL,"Yatra Online, Inc.",NCM,,USA
+SKAS,"Saker Aviation Services, Inc.",PNK,"Air Services, Other",USA
+SCD,LMP Capital and Income Fund Inc.,NYQ,,USA
+RUK,RELX Group plc,NYQ,,USA
+ROIQ,ROI Acquisition Corp. II,NCM,,USA
+QPACW,,,,
+QPACU,Quinpario Acquisition Corp. 2 -,NCM,,USA
+AMLH,"American Leisure Holdings, Inc.",PNK,,USA
+PZE,Petrobras Argentina S.A.,NYQ,Major Integrated Oil & Gas,USA
+PAI,Western Asset Income Fund,NYQ,,USA
+PAA.TO,Pan American Silver Corp.,TOR,,Canada
+ORG.AX,Origin Energy Limited,ASX,Major Integrated Oil & Gas,Australia
+NXZ,Nuveen Dividend Advantage Municipal Fund 2,ASE,,USA
+NORD,"Nord Anglia Education, Inc.",NYQ,Education & Training Services,USA
+NMA,"Nuveen Municipal Advantage Fund, Inc.",NYQ,,USA
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,NYQ,,USA
+NBRV,Nabriva Therapeutics plc,NMS,,USA
+MOG-A,Moog Inc.,NYQ,Aerospace/Defense Products & Services,USA
+MAV,Pioneer Municipal High Income Advantage Trust,NYQ,,USA
+LDF,"The Latin American Discovery Fund, Inc.",NYQ,,USA
+JSYNU,Jensyn Acquisition Corp.,NCM,,USA
+JPI,Nuveen Preferred and Income Term Fund,NYQ,,USA
+JBN,"Corporate Backed Callable Trust Certificates, J.C. Penny Debenture-Backed Series 2007-1 Trust",NYQ,,USA
+HDRAW,,,,
+HDRAU,HYDRA INDUSTRIES ACQUISITION CORP.,NMS,,USA
+HCACW,,,,
+GTATQ,GT Advanced Technologies Inc.,PNK,,USA
+GPIAW,GPIAW,NCM,,USA
+GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYQ,,USA
+GGACW,Garnero Group Acquisition Compa,NCM,,USA
+GCH,"Aberdeen Greater China Fund, Inc.",NYQ,,USA
+GAI,Global-Tech Advanced Innovations Inc.,NGM,,USA
+FNTC,FinTech Acquisition Corp.,NCM,,USA
+FBGX,UBS AG FI Enhanced Large Cap Growth ETN,PCX,,USA
+EXD,Eaton Vance Tax-Advantaged Bond and Option Strategies Fund,NYQ,,USA
+EHI,Western Asset Global High Income Fund Inc.,NYQ,,USA
+EAE,"Entergy Arkansas, Inc.",NYQ,,USA
+DRA,Diversified Real Asset Income Fund,NYQ,,USA
+DFP,"Delphi Financial Group, Inc.",NYQ,,USA
+DDF,"Delaware Investments Dividend and Income Fund, Inc.",NYQ,,USA
+CVB,Lehman ABS Corporation 7.75% Co,NYQ,,USA
+CS.PA,AXA SA,PAR,Property & Casualty Insurance,France
+CNLMR,ORIGO ACQUISITION CORP,NCM,,USA
+CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc.",PNK,,USA
+BLVDU,Boulevard Acquisition Corp. II,NCM,,USA
+BHAC,Barington/Hilco Acquisition Corp.,NCM,Conglomerates,USA
+BGY,BlackRock Enhanced International Dividend Trust,NYQ,,USA
+BBD-A.TO,Bombardier Inc.,TOR,Aerospace/Defense - Major Diversified,Canada
+BAM-A.TO,Brookfield Asset Management Inc.,TOR,Real Estate Development,Canada
+AVNU,"Avenue Financial Holdings, Inc.",NMS,,USA
+AVL,Avalon Rare Metals Inc.,ASE,,USA
+AVL.TO,Avalon Advanced Materials Inc.,TOR,Industrial Metals & Minerals,Canada
+ATH.TO,Athabasca Oil Corporation,TOR,Independent Oil & Gas,Canada
+ASG,"Liberty All-Star Growth Fund, Inc.",NYQ,,USA
+ARU,Ares Capital Corporation,NYQ,,USA
+AQA.TO,Aquila Resources Inc.,TOR,Industrial Metals & Minerals,Canada
+ANZ.AX,Australia and New Zealand Banking Group Limited,ASX,Money Center Banks,Australia
+ANTX,"Anthem, Inc.",NYQ,,USA
+ANTM.JK,Perusahaan Perseroan (Persero) PT Aneka Tambang Tbk,JKT,,Indonesia
+ANSU,Amanasu Techno Holdings Corporation,PNK,Recreational Vehicles,USA
+ANRZQ,"Alpha Natural Resources, Inc.",PNK,,USA
+ANDAU,Andina Acquisition Corp. II,NCM,,USA
+ALYI,"Alternet Systems, Inc.",PNK,Internet Software & Services,USA
+ALO.PA,Alstom SA,PAR,Diversified Machinery,France
+ALLM,"Alliance Bioenergy Plus, Inc.",PNK,Conglomerates,USA
+ALLB,Alliance Bancorp Inc of Pennsylvania,NGM,,USA
+AIRT,"Air T, Inc.",NCM,Air Delivery & Freight Services,USA
+AIC,Arlington Asset Investment Corp.,NYQ,,USA
+AFFM,Affirmative Insurance Holdings Inc.,PNK,,USA
+ADN.L,Aberdeen Asset Management PLC,LSE,,United Kingdom
+AC,"Associated Capital Group, Inc.",NYQ,,USA
+AC.PA,Accor SA,PAR,Lodging,France
+ABI.BR,Anheuser-Busch InBev SA/NV,BRU,Beverages - Brewers,Belgium
+ZERO,"QS Energy, Inc.",PNK,,USA
+XRF.AX,XRF Scientific Limited,ASX,Diversified Machinery,Australia
+WOW.AX,Woolworths Limited,ASX,Grocery Stores,Australia
+WDI.DE,Wirecard AG,GER,Business Services,Germany
+WAT.AX,Waterco Limited,ASX,Electronic Equipment,Australia
+VOLVY,AB Volvo (publ),PNK,,USA
+TRTLU,Terrapin 3 Acquisition Corporat,NCM,,USA
+TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYQ,,USA
+ABEC,Analytica Bio - Energy Corp.,PNK,,USA
+SIEGY,Siemens Aktiengesellschaft,PNK,,USA
+SDCJF,Sundance Energy Australia Limited,PNK,,USA
+ROIQW,ROI Acquisition Corp. II,NCM,,USA
+ROIQU,ROI Acquisition Corp. II,NCM,,USA
+QPAC,Quinpario Acquisition Corp. 2,NCM,,USA
+QBE.AX,QBE Insurance Group Limited,ASX,Property & Casualty Insurance,Australia
+ARN.V,Arcan Resources Ltd.,VAN,,Canada
+PAACR,Pacific Special Acquisition Cor,NCM,,USA
+ORT.TO,Orbite Technologies Inc.,TOR,,Canada
+NZF,Nuveen Municipal Credit Income Fund,NYQ,,USA
+NVX,Nuveen California Dividend Advantage Municipal Fund 2,ASE,,USA
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,NYQ,,USA
+NUW,Nuveen AMT-Free Municipal Value Fund,NYQ,,USA
+NIE,AllianzGI Equity & Convertible Income Fund,NYQ,,USA
+MYHI,Mountain High Acquisitions Corp.,PNK,,USA
+MT.AS,ArcelorMittal,AMS,Steel & Iron,Netherlands
+MHNB,"Maiden Holdings North America,",NYQ,,USA
+MDG.AX,Medtech Global Limited,ASX,,Australia
+LAQ,"Aberdeen Latin America Equity Fund, Inc.",ASE,,USA
+KED,Kayne Anderson Energy Development Company,NYQ,,USA

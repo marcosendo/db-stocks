@@ -1,0 +1,1334 @@
+Symbol,Name
+AAPL34.SA,Apple Inc.
+MSFT34.SA,Microsoft Corporation
+AMZO34.SA,"Amazon.com, Inc."
+GOGL34.SA,Alphabet Inc.
+GOGL35.SA,Alphabet Inc.
+TSLA34.SA,"Tesla, Inc."
+FBOK34.SA,"Facebook, Inc."
+BERK34.SA,Berkshire Hathaway Inc.
+VISA34.SA,Visa Inc.
+JNJB34.SA,Johnson & Johnson
+WALM34.SA,Walmart Inc.
+MSCD34.SA,Mastercard Incorporated
+NVDC34.SA,NVIDIA Corporation
+DISB34.SA,The Walt Disney Company
+PGCO34.SA,The Procter & Gamble Company
+UNHH34.SA,UnitedHealth Group Incorporated
+HOME34.SA,"The Home Depot, Inc."
+NFLX34.SA,"Netflix, Inc."
+ITLC34.SA,Intel Corporation
+ADBE34.SA,Adobe Inc.
+CMCS34.SA,Comcast Corporation
+VERZ34.SA,Verizon Communications Inc.
+NIKE34.SA,"NIKE, Inc."
+ABTT34.SA,Abbott Laboratories
+SSFO34.SA,"salesforce.com, inc."
+N1VS34.SA,Novartis AG
+COCA34.SA,The Coca-Cola Company
+EXXO34.SA,Exxon Mobil Corporation
+ATTB34.SA,AT&T Inc.
+CSCO34.SA,"Cisco Systems, Inc."
+TMOS34.SA,Thermo Fisher Scientific Inc.
+PEPB34.SA,"PepsiCo, Inc."
+PFIZ34.SA,Pfizer Inc.
+LILY34.SA,Eli Lilly and Company
+ABBV34.SA,AbbVie Inc.
+MRCK34.SA,"Merck & Co., Inc."
+AVGO34.SA,Broadcom Inc.
+ORCL34.SA,Oracle Corporation
+CHVX34.SA,Chevron Corporation
+ACNB34.SA,Accenture plc
+DHER34.SA,Danaher Corporation
+QCOM34.SA,QUALCOMM Incorporated
+NEXT34.SA,"NextEra Energy, Inc."
+N1VO34.SA,Novo Nordisk A/S
+MDTC34.SA,Medtronic plc
+MCDC34.SA,McDonald's Corporation
+COWC34.SA,Costco Wholesale Corporation
+TEXA34.SA,Texas Instruments Incorporated
+T1MU34.SA,"T-Mobile US, Inc."
+HONB34.SA,Honeywell International Inc.
+RDSA35.SA,Royal Dutch Shell plc
+UPSS34.SA,"United Parcel Service, Inc."
+BMYB34.SA,Bristol-Myers Squibb Company
+UPAC34.SA,Union Pacific Corporation
+L1IN34.SA,Linde plc
+AMGN34.SA,Amgen Inc.
+LOWC34.SA,"Lowe's Companies, Inc."
+SBUB34.SA,Starbucks Corporation
+Z1OM34.SA,"Zoom Video Communications, Inc."
+BOEI34.SA,The Boeing Company
+AIRB34.SA,"Airbnb, Inc."
+N1OW34.SA,"ServiceNow, Inc."
+GSGI34.SA,"The Goldman Sachs Group, Inc."
+B1BL34.SA,BHP Group
+BLAK34.SA,"BlackRock, Inc."
+RYTT34.SA,Raytheon Technologies Corporation
+H1SB34.SA,HSBC Holdings plc
+IBMB34.SA,International Business Machines Corporation
+U1BE34.SA,"Uber Technologies, Inc."
+INTU34.SA,Intuit Inc.
+A1MD34.SA,"Advanced Micro Devices, Inc."
+CATP34.SA,Caterpillar Inc.
+SCHW34.SA,The Charles Schwab Corporation
+MMMC34.SA,3M Company
+T1OW34.SA,American Tower Corporation (REIT)
+AXPB34.SA,American Express Company
+GEOO34.SA,General Electric Company
+ELCI34.SA,The Estée Lauder Companies Inc.
+DEEC34.SA,Deere & Company
+MELI34.SA,"MercadoLibre, Inc."
+JPMC34.SA,JPMorgan Chase & Co.
+TGTB34.SA,Target Corporation
+CVSH34.SA,CVS Health Corporation
+A1MT34.SA,"Applied Materials, Inc."
+LMTB34.SA,Lockheed Martin Corporation
+MUTC34.SA,"Micron Technology, Inc."
+I1SR34.SA,"Intuitive Surgical, Inc."
+VALE3.SA,Vale S.A.
+BKNG34.SA,Booking Holdings Inc.
+GILD34.SA,"Gilead Sciences, Inc."
+B1PP34.SA,BP p.l.c.
+BOAC34.SA,Bank of America Corporation
+F1NI34.SA,"Fidelity National Information Services, Inc."
+TJXC34.SA,"The TJX Companies, Inc."
+MDLZ34.SA,"Mondelez International, Inc."
+MOOO34.SA,"Altria Group, Inc."
+P1LD34.SA,"Prologis, Inc."
+ATVI34.SA,"Activision Blizzard, Inc."
+SPGI34.SA,S&P Global Inc.
+GMCO34.SA,General Motors Company
+ATVI34.SA,"Activision Blizzard, Inc."
+L1RC34.SA,Lam Research Corporation
+Z1TS34.SA,Zoetis Inc.
+F1IS34.SA,"Fiserv, Inc."
+M1RN34.SA,"Moderna, Inc."
+B1DX34.SA,"Becton, Dickinson and Company"
+CNIC34.SA,Canadian National Railway Company
+C1HI34.SA,China Petroleum & Chemical Corporation
+C1IC34.SA,Cigna Corporation
+A1NT34.SA,"Anthem, Inc."
+ADPR34.SA,"Automatic Data Processing, Inc."
+PETR4.SA,Petróleo Brasileiro S.A. - Petrobras
+USBC34.SA,U.S. Bancorp
+PETR3.SA,Petróleo Brasileiro S.A. - Petrobras
+CHME34.SA,CME Group Inc.
+DUKB34.SA,Duke Energy Corporation
+COLG34.SA,Colgate-Palmolive Company
+FDXB34.SA,FedEx Corporation
+C1CI34.SA,Crown Castle International Corp. (REIT)
+CSXC34.SA,CSX Corporation
+A1UT34.SA,"Autodesk, Inc."
+PNCS34.SA,"The PNC Financial Services Group, Inc."
+EQIX34.SA,"Equinix, Inc. (REIT)"
+W1DA34.SA,"Workday, Inc."
+S1HW34.SA,The Sherwin-Williams Company
+I1LM34.SA,"Illumina, Inc."
+I1TW34.SA,Illinois Tool Works Inc.
+T1WL34.SA,Twilio Inc.
+COPH34.SA,ConocoPhillips
+UBSG34.SA,UBS Group AG
+E1CL34.SA,Ecolab Inc.
+S1PO34.SA,Spotify Technology S.A.
+B1AM34.SA,Brookfield Asset Management Inc.
+T1AM34.SA,Atlassian Corporation Plc
+D1OM34.SA,"Dominion Energy, Inc."
+D1EL34.SA,Dell Technologies Inc.
+H1CA34.SA,"HCA Healthcare, Inc."
+G1PI34.SA,Global Payments Inc.
+A1BB34.SA,ABB Ltd
+VRTX34.SA,Vertex Pharmaceuticals Incorporated
+A1PD34.SA,"Air Products and Chemicals, Inc."
+R1KU34.SA,"Roku, Inc."
+B1SX34.SA,Boston Scientific Corporation
+A1ON34.SA,Aon Plc
+A1DI34.SA,"Analog Devices, Inc."
+CAON34.SA,Capital One Financial Corporation
+REGN34.SA,"Regeneron Pharmaceuticals, Inc."
+MCOR34.SA,Moody's Corporation
+N1XP34.SA,NXP Semiconductors N.V.
+E1MR34.SA,Emerson Electric Co.
+NOCG34.SA,Northrop Grumman Corporation
+P1GR34.SA,The Progressive Corporation
+N1EM34.SA,Newmont Corporation
+DGCO34.SA,Dollar General Corporation
+E1TN34.SA,Eaton Corporation plc
+W1MC34.SA,"Waste Management, Inc."
+A1LG34.SA,"Align Technology, Inc."
+D1OC34.SA,"DocuSign, Inc."
+TWTR34.SA,"Twitter, Inc."
+M1NS34.SA,Monster Beverage Corporation
+METB34.SA,"MetLife, Inc."
+FCXO34.SA,Freeport-McMoRan Inc.
+W1BK34.SA,Westpac Banking Corporation
+K1LA34.SA,KLA Corporation
+FDMO34.SA,Ford Motor Company
+KMBB34.SA,Kimberly-Clark Corporation
+ABEV3.SA,Ambev S.A.
+T1EL34.SA,TE Connectivity Ltd.
+L1UL34.SA,Lululemon Athletica Inc.
+EBAY34.SA,eBay Inc.
+S1NP34.SA,"Synopsys, Inc."
+GDBR34.SA,General Dynamics Corporation
+E1XC34.SA,Exelon Corporation
+D1OW34.SA,Dow Inc.
+STZB34.SA,"Constellation Brands, Inc."
+M1TC34.SA,"Match Group, Inc."
+L1VS34.SA,Las Vegas Sands Corp.
+WGBA34.SA,"Walgreens Boots Alliance, Inc."
+ROST34.SA,"Ross Stores, Inc."
+C1MG34.SA,"Chipotle Mexican Grill, Inc."
+M1TT34.SA,"Marriott International, Inc."
+WFCO34.SA,Wells Fargo & Company
+KHCB34.SA,The Kraft Heinz Company
+P1SA34.SA,Public Storage
+APTV34.SA,Aptiv PLC
+EAIN34.SA,Electronic Arts Inc.
+BIIB34.SA,Biogen Inc.
+D1LR34.SA,"Digital Realty Trust, Inc."
+DDNB34.SA,"DuPont de Nemours, Inc."
+A1EP34.SA,"American Electric Power Company, Inc."
+D1EX34.SA,"DexCom, Inc."
+M1CH34.SA,Microchip Technology Incorporated
+L1HX34.SA,"L3Harris Technologies, Inc."
+B1AX34.SA,Baxter International Inc.
+CTSH34.SA,Cognizant Technology Solutions Corporation
+C1DN34.SA,"Cadence Design Systems, Inc."
+A1GI34.SA,"Agilent Technologies, Inc."
+BONY34.SA,The Bank of New York Mellon Corporation
+J1CI34.SA,Johnson Controls International plc
+O1KT34.SA,"Okta, Inc."
+SLBG34.SA,Schlumberger Limited
+I1RP34.SA,Trane Technologies plc
+P1HC34.SA,Parker-Hannifin Corporation
+AIGB34.SA,"American International Group, Inc."
+I1QV34.SA,IQVIA Holdings Inc.
+LBRD34.SA,Liberty Broadband Corporation
+D1DG34.SA,"Datadog, Inc."
+M1SC34.SA,MSCI Inc.
+I1NF34.SA,IHS Markit Ltd.
+HPQB34.SA,HP Inc.
+C1GP34.SA,"CoStar Group, Inc."
+G1MI34.SA,"General Mills, Inc."
+X1LN34.SA,"Xilinx, Inc."
+C1NC34.SA,Centene Corporation
+S1GE34.SA,Seagen Inc.
+X1EL34.SA,Xcel Energy Inc.
+C1RR34.SA,Carrier Global Corporation
+A1LX34.SA,"Alexion Pharmaceuticals, Inc."
+P1AC34.SA,PACCAR Inc
+PYPL34.SA,"PayPal Holdings, Inc."
+WEGE3.SA,WEG S.A.
+E1OG34.SA,"EOG Resources, Inc."
+C1BS34.SA,ViacomCBS Inc.
+M1SI34.SA,"Motorola Solutions, Inc."
+M1PC34.SA,Marathon Petroleum Corporation
+A1TT34.SA,The Allstate Corporation
+ORLY34.SA,"O'Reilly Automotive, Inc."
+C1TV34.SA,"Corteva, Inc."
+SIMN34.SA,"Simon Property Group, Inc."
+KMIC34.SA,"Kinder Morgan Kansas, Inc."
+ITUB3.SA,Itaú Unibanco Holding S.A.
+P1DT34.SA,"Prudential Financial, Inc."
+I1FF34.SA,International Flavors & Fragrances Inc.
+I1CE34.SA,"Intercontinental Exchange, Inc."
+A1FL34.SA,Aflac Incorporated
+P1SX34.SA,Phillips 66
+MGLU3.SA,Magazine Luiza S.A.
+BBYY34.SA,"Best Buy Co., Inc."
+ITUB4.SA,Itaú Unibanco Holding S.A.
+H1LT34.SA,Hilton Worldwide Holdings Inc.
+HSHY34.SA,The Hershey Company
+H1TH34.SA,Huazhu Group Limited
+V1RS34.SA,"Verisk Analytics, Inc."
+BPAC5.SA,Banco BTG Pactual S.A.
+A1DM34.SA,Archer-Daniels-Midland Company
+S1BA34.SA,SBA Communications Corporation
+BBDC4.SA,Banco Bradesco S.A.
+S1OU34.SA,Southwest Airlines Co.
+S1SL34.SA,"Skyworks Solutions, Inc."
+R1MD34.SA,ResMed Inc.
+C1PR34.SA,"Copart, Inc."
+B1LL34.SA,Ball Corporation
+M1CK34.SA,McKesson Corporation
+BBDC3.SA,Banco Bradesco S.A.
+D1HI34.SA,"D.R. Horton, Inc."
+A1WK34.SA,"American Water Works Company, Inc."
+D1FS34.SA,Discover Financial Services
+G1LW34.SA,Corning Incorporated
+AZOI34.SA,"AutoZone, Inc."
+O1TI34.SA,Otis Worldwide Corporation
+R1OK34.SA,"Rockwell Automation, Inc."
+SANB4.SA,Banco Santander (Brasil) S.A.
+L1EN34.SA,Lennar Corporation
+S1IV34.SA,SVB Financial Group
+P1IO34.SA,Pioneer Natural Resources Company
+SANB3.SA,Banco Santander (Brasil) S.A.
+CTGP34.SA,Citigroup Inc.
+DEAI34.SA,"Delta Air Lines, Inc."
+S1PL34.SA,Splunk Inc.
+K1SG34.SA,"Keysight Technologies, Inc."
+MSBR34.SA,Morgan Stanley
+W1MB34.SA,"The Williams Companies, Inc."
+H1RL34.SA,Hormel Foods Corporation
+W1EL34.SA,Welltower Inc.
+C1OU34.SA,Coupa Software Incorporated
+RDOR3.SA,Rede D'Or São Luiz S.A.
+W1YC34.SA,Weyerhaeuser Company
+VLOE34.SA,Valero Energy Corporation
+B1GN34.SA,"BeiGene, Ltd."
+F1TN34.SA,"Fortinet, Inc."
+K1RC34.SA,The Kroger Co.
+P1YC34.SA,"Paycom Software, Inc."
+A1NE34.SA,"Arista Networks, Inc."
+M1DB34.SA,"MongoDB, Inc."
+DLTR34.SA,"Dollar Tree, Inc."
+SRXM34.SA,Sirius XM Holdings Inc.
+A1MP34.SA,"Ameriprise Financial, Inc."
+SANB11.SA,Banco Santander (Brasil) S.A.
+T1TW34.SA,"Take-Two Interactive Software, Inc."
+E1QR34.SA,Equity Residential
+TSNF34.SA,"Tyson Foods, Inc."
+A1VB34.SA,"AvalonBay Communities, Inc."
+CLXC34.SA,The Clorox Company
+C1CL34.SA,Carnival Corporation & plc
+OXYP34.SA,Occidental Petroleum Corporation
+B3SA3.SA,"B3 S.A. - Brasil, Bolsa, Balcão"
+KLBN11.SA,Klabin S.A.
+A1RE34.SA,"Alexandria Real Estate Equities, Inc."
+N1DA34.SA,"Nasdaq, Inc."
+G1RM34.SA,Garmin Ltd.
+A1JG34.SA,Arthur J. Gallagher & Co.
+B1KR34.SA,Baker Hughes Company
+R1IN34.SA,Realty Income Corporation
+I1AC34.SA,IAC/InterActiveCorp
+C1BR34.SA,"CBRE Group, Inc."
+A1MB34.SA,AmerisourceBergen Corporation
+C1DW34.SA,CDW Corporation
+S1YF34.SA,Synchrony Financial
+Z1BR34.SA,Zebra Technologies Corporation
+E1FX34.SA,Equifax Inc.
+FLTC34.SA,"FLEETCOR Technologies, Inc."
+H1OL34.SA,"Hologic, Inc."
+BPAC3.SA,Banco BTG Pactual S.A.
+P1PL34.SA,PPL Corporation
+W1MG34.SA,Warner Music Group Corp.
+N1TR34.SA,Northern Trust Corporation
+EXGR34.SA,"Expedia Group, Inc."
+K1EL34.SA,Kellogg Company
+I1NC34.SA,Incyte Corporation
+H1ZN34.SA,Horizon Therapeutics Public Limited Company
+E1TR34.SA,Entergy Corporation
+G1WW34.SA,"W.W. Grainger, Inc."
+A1KA34.SA,"Akamai Technologies, Inc."
+CHDC34.SA,"Church & Dwight Co., Inc."
+O1KE34.SA,"ONEOK, Inc."
+K1CS34.SA,Kansas City Southern
+DCVY34.SA,"Discovery, Inc."
+Q1RV34.SA,"Qorvo, Inc."
+A1LN34.SA,"Alnylam Pharmaceuticals, Inc."
+PAGS34.SA,PagSeguro Digital Ltd.
+M1LM34.SA,"Martin Marietta Materials, Inc."
+I1PC34.SA,International Paper Company
+R1OL34.SA,"Rollins, Inc."
+FOXC34.SA,Fox Corporation
+V1TA34.SA,"Ventas, Inc."
+A1ES34.SA,The AES Corporation
+R1FC34.SA,Regions Financial Corporation
+W1DC34.SA,Western Digital Corporation
+A1CR34.SA,Amcor plc
+A1EE34.SA,Ameren Corporation
+M1TB34.SA,M&T Bank Corporation
+BBAS3.SA,Banco do Brasil S.A.
+X1YL34.SA,Xylem Inc.
+U1LT34.SA,"Ulta Beauty, Inc."
+F1EC34.SA,FirstEnergy Corp.
+M1GM34.SA,MGM Resorts International
+HALI34.SA,Halliburton Company
+D1RI34.SA,"Darden Restaurants, Inc."
+A1LB34.SA,Albemarle Corporation
+E1SS34.SA,"Essex Property Trust, Inc."
+C1FG34.SA,"Citizens Financial Group, Inc."
+L1YV34.SA,"Live Nation Entertainment, Inc."
+H1PE34.SA,Hewlett Packard Enterprise Company
+ITSA4.SA,Itaúsa - Investimentos Itaú S.A.
+ITSA3.SA,Itaúsa - Investimentos Itaú S.A.
+D1IS34.SA,DISH Network Corporation
+S1TX34.SA,Seagate Technology plc
+SUZB3.SA,Suzano S.A.
+P1EA34.SA,"Healthpeak Properties, Inc."
+P1KI34.SA,"PerkinElmer, Inc."
+C1TX34.SA,"Citrix Systems, Inc."
+H1EI34.SA,HEICO Corporation
+R1CL34.SA,Royal Caribbean Group
+B1RF34.SA,"Broadridge Financial Solutions, Inc."
+N1UE34.SA,Nucor Corporation
+S1TE34.SA,STERIS Corporation
+W1IX34.SA,Wix.com Ltd.
+B1MR34.SA,BioMarin Pharmaceutical Inc.
+N1TA34.SA,"NetApp, Inc."
+L1DO34.SA,"Leidos Holdings, Inc."
+VIVT3.SA,Telefônica Brasil S.A.
+C1NS34.SA,Celanese Corporation
+BOXP34.SA,"Boston Properties, Inc."
+A1BM34.SA,"Abiomed, Inc."
+C1AH34.SA,"Cardinal Health, Inc."
+T1CH34.SA,Bio-Techne Corporation
+P1FG34.SA,"Principal Financial Group, Inc."
+DASA3.SA,Diagnósticos da América S.A.
+LBRN34.SA,"L Brands, Inc."
+CINF34.SA,Cincinnati Financial Corporation
+U1AL34.SA,"United Airlines Holdings, Inc."
+H1BA34.SA,Huntington Bancshares Incorporated
+L1MN34.SA,"Lumen Technologies, Inc."
+F1RA34.SA,"Franklin Resources, Inc."
+H1AS34.SA,"Hasbro, Inc."
+F1SL34.SA,"Fastly, Inc."
+P1HM34.SA,"PulteGroup, Inc."
+NTCO3.SA,Natura &Co Holding S.A.
+S1JM34.SA,The J. M. Smucker Company
+A1RG34.SA,argenx SE
+W1YN34.SA,"Wynn Resorts, Limited"
+E1VR34.SA,"Evergy, Inc."
+N1WS35.SA,News Corporation
+A1EN34.SA,Alliant Energy Corporation
+HAPV3.SA,Hapvida Participações e Investimentos S.A.
+U1DR34.SA,"UDR, Inc."
+JBSS3.SA,JBS S.A.
+S1YM34.SA,NortonLifeLock Inc.
+C1AB34.SA,"Cable One, Inc."
+DVAI34.SA,DaVita Inc.
+C1HR34.SA,"C.H. Robinson Worldwide, Inc."
+D1VN34.SA,Devon Energy Corporation
+ARNC34.SA,Howmet Aerospace Inc.
+W1RB34.SA,W. R. Berkley Corporation
+C1NP34.SA,"CenterPoint Energy, Inc."
+A1TM34.SA,Atmos Energy Corporation
+W1RK34.SA,WestRock Company
+N1BI34.SA,"Neurocrine Biosciences, Inc."
+N1WL34.SA,Newell Brands Inc.
+GNDI3.SA,Notre Dame Intermédica Participações S.A.
+U1HS34.SA,"Universal Health Services, Inc."
+MOSC34.SA,The Mosaic Company
+M1HK34.SA,"Mohawk Industries, Inc."
+A1GN34.SA,Allegion plc
+A1AP34.SA,"Advance Auto Parts, Inc."
+M1CB34.SA,Molson Coors Beverage Company
+W1PP34.SA,WPP plc
+FSLR34.SA,"First Solar, Inc."
+TPRY34.SA,"Tapestry, Inc."
+BBSE3.SA,BB Seguridade Participações S.A.
+N1RG34.SA,"NRG Energy, Inc."
+F1AN34.SA,"Diamondback Energy, Inc."
+H1SI34.SA,"Henry Schein, Inc."
+H1ST34.SA,"Host Hotels & Resorts, Inc."
+I1VZ34.SA,Invesco Ltd.
+C1BO34.SA,"Cboe Global Markets, Inc."
+RENT3.SA,Localiza Rent a Car S.A.
+B1SA34.SA,Banco Santander-Chile
+I1RM34.SA,Iron Mountain Incorporated
+S1NA34.SA,Snap-on Incorporated
+WUNI34.SA,The Western Union Company
+C1FI34.SA,"CF Industries Holdings, Inc."
+C1MA34.SA,Comerica Incorporated
+P1NR34.SA,Pentair plc
+CSNA3.SA,Companhia Siderúrgica Nacional
+U1AI34.SA,"Under Armour, Inc."
+A1YX34.SA,"Alteryx, Inc."
+N1IS34.SA,NiSource Inc.
+BTOW3.SA,B2W - Companhia Digital
+ELET3.SA,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+ELET6.SA,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+GPSI34.SA,"The Gap, Inc."
+ELET5.SA,Centrais Elétricas Brasileiras S.A. - Eletrobrás
+R1EG34.SA,Regency Centers Corporation
+G1FI34.SA,Gold Fields Limited
+A1SU34.SA,"Assurant, Inc."
+LAME3.SA,Lojas Americanas S.A.
+K1SS34.SA,Kohl's Corporation
+N1CL34.SA,Norwegian Cruise Line Holdings Ltd.
+LAME4.SA,Lojas Americanas S.A.
+RADL3.SA,Raia Drogasil S.A.
+S1RP34.SA,"Sarepta Therapeutics, Inc."
+BIDI4.SA,Banco Inter S.A.
+BIDI3.SA,Banco Inter S.A.
+RAIL3.SA,Rumo S.A.
+CRFB3.SA,Atacadão S.A.
+GGBR3.SA,Gerdau S.A.
+K1IM34.SA,Kimco Realty Corporation
+GGBR4.SA,Gerdau S.A.
+V1NO34.SA,Vornado Realty Trust
+F1LI34.SA,"FLIR Systems, Inc."
+CPFE3.SA,CPFL Energia S.A.
+A1LK34.SA,"Alaska Air Group, Inc."
+C1OG34.SA,Cabot Oil & Gas Corporation
+CAPH34.SA,Capri Holdings Limited
+F1RI34.SA,Federal Realty Investment Trust
+EGIE3.SA,Engie Brasil Energia S.A.
+S1EA34.SA,Sealed Air Corporation
+A1PA34.SA,Apache Corporation
+H1II34.SA,"Huntington Ingalls Industries, Inc."
+D1XC34.SA,DXC Technology Company
+J1EF34.SA,Jefferies Financial Group Inc.
+A1IV34.SA,Apartment Investment and Management Company
+M1RO34.SA,Marathon Oil Corporation
+P1BC34.SA,"People's United Financial, Inc."
+TIMS3.SA,TIM S.A.
+LREN3.SA,Lojas Renner S.A.
+CSAN3.SA,Cosan S.A.
+COTY34.SA,Coty Inc.
+CRDA34.SA,Credit Acceptance Corporation
+KLBN3.SA,Klabin S.A.
+KLBN4.SA,Klabin S.A.
+T1RI34.SA,"TripAdvisor, Inc."
+N1OV34.SA,NOV Inc.
+J1WN34.SA,"Nordstrom, Inc."
+H1OG34.SA,"Harley-Davidson, Inc."
+SBSP3.SA,Companhia de Saneamento Básico do Estado de São Paulo - SABESP
+T1EC34.SA,TechnipFMC plc
+UGPA3.SA,Ultrapar Participações S.A.
+BRDT3.SA,Petrobras Distribuidora S.A.
+MACY34.SA,"Macy's, Inc."
+U1NM34.SA,Unum Group
+KMPR34.SA,Kemper Corporation
+XRXB34.SA,Xerox Holdings Corporation
+CCRO3.SA,CCR S.A.
+REDE3.SA,Rede Energia Participações S.A.
+VLYB34.SA,Valley National Bancorp
+S1LG34.SA,SL Green Realty Corp.
+VVAR3.SA,Via Varejo S.A.
+BPAC11.SA,Banco BTG Pactual S.A.
+ENEV3.SA,Eneva S.A.
+EQTL3.SA,Equatorial Energia S.A.
+CRIN34.SA,"Carter's, Inc."
+PCAR3.SA,Companhia Brasileira de Distribuição
+A1LL34.SA,Alliance Data Systems Corporation
+CMIG3.SA,Companhia Energética de Minas Gerais
+BRKM6.SA,Braskem S.A.
+BRKM3.SA,Braskem S.A.
+CMIG4.SA,Companhia Energética de Minas Gerais
+NEOE3.SA,Neoenergia S.A.
+BSLI3.SA,BRB - Banco de Brasília S.A.
+BSLI4.SA,BRB - Banco de Brasília S.A.
+BRKM5.SA,Braskem S.A.
+ENGI4.SA,Energisa S.A.
+ENGI3.SA,Energisa S.A.
+THGI34.SA,"The Hanover Insurance Group, Inc."
+CGAS3.SA,Companhia de Gás de São Paulo - COMGÁS
+CGAS5.SA,Companhia de Gás de São Paulo - COMGÁS
+ALPA3.SA,Alpargatas S.A.
+ALPA4.SA,Alpargatas S.A.
+BRAP3.SA,Bradespar S.A.
+HYPE3.SA,Hypera S.A.
+BRAP4.SA,Bradespar S.A.
+USSX34.SA,United States Steel Corporation
+H1RB34.SA,"H&R Block, Inc."
+BRFS3.SA,BRF S.A.
+CPLE6.SA,Companhia Paranaense de Energia - COPEL
+GMAT3.SA,Grupo Mateus S.A.
+TRPL3.SA,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.
+TRPL4.SA,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.
+USIM5.SA,Usinas Siderúrgicas de Minas Gerais S.A.
+USIM3.SA,Usinas Siderúrgicas de Minas Gerais S.A.
+CPLE3.SA,Companhia Paranaense de Energia - COPEL
+TOTS3.SA,TOTVS S.A.
+ISBC34.SA,"Investors Bancorp, Inc."
+LWSA3.SA,Locaweb Serviços de Internet S.A.
+PSSA3.SA,Porto Seguro S.A.
+SULA11.SA,Sul América S.A.
+AZUL4.SA,Azul S.A.
+BPAN4.SA,Banco Pan S.A.
+DTEX3.SA,Duratex S.A.
+ALUP11.SA,Alupar Investimento S.A.
+LCAM3.SA,Companhia de Locação das Américas
+PRIO3.SA,Petro Rio S.A.
+MULT3.SA,Multiplan Empreendimentos Imobiliários S.A.
+OIBR4.SA,Oi S.A.
+OIBR3.SA,Oi S.A.
+TFCO4.SA,Track & Field Co S.A.
+RIGG34.SA,Transocean Ltd.
+EQPA7.SA,Equatorial Pará Distribuidora de Energia S.A.
+ENGI11.SA,Energisa S.A.
+ENBR3.SA,EDP - Energias do Brasil S.A.
+GOAU3.SA,Metalurgica Gerdau S.A.
+SMTO3.SA,São Martinho S.A.
+GOAU4.SA,Metalurgica Gerdau S.A.
+TAEE4.SA,Transmissora Aliança de Energia Elétrica S.A.
+TAEE3.SA,Transmissora Aliança de Energia Elétrica S.A.
+WHRL3.SA,Whirlpool S.A.
+CYRE3.SA,Cyrela Brazil Realty S.A. Empreendimentos e Participações
+WHRL4.SA,Whirlpool S.A.
+CIEL3.SA,Cielo S.A.
+MDIA3.SA,M. Dias Branco S.A. Indústria e Comércio de Alimentos
+CEEB3.SA,Companhiade Eletricidade do Estado da Bahia - COELBA
+CESP5.SA,CESP - Companhia Energética de São Paulo
+W1BO34.SA,Weibo Corporation
+YDUQ3.SA,Yduqs Participações S.A.
+CESP3.SA,CESP - Companhia Energética de São Paulo
+MRFG3.SA,Marfrig Global Foods S.A.
+CESP6.SA,CESP - Companhia Energética de São Paulo
+RLOG3.SA,Cosan Logística S.A.
+MRVE3.SA,MRV Engenharia e Participações S.A.
+QUAL3.SA,Qualicorp Consultoria e Corretora de Seguros S.A.
+GOLL4.SA,Gol Linhas Aéreas Inteligentes S.A.
+SULA3.SA,Sul América S.A.
+AERI3.SA,Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A.
+FLRY3.SA,Fleury S.A.
+A1SN34.SA,Ascendis Pharma A/S
+SIMH3.SA,SIMPAR S.A.
+EZTC3.SA,EZTEC Empreendimentos e Participações S.A.
+IRBR3.SA,IRB-Brasil Resseguros S.A.
+COGN3.SA,Cogna Educação S.A.
+OMGE3.SA,Omega Geração S.A.
+BRML3.SA,BR Malls Participações S.A.
+BSEV3.SA,Biosev S.A.
+PETZ3.SA,Pet Center Comércio e Participações S.A.
+CEPE6.SA,Companhia Energética de Pernambuco - CELPE
+LIGT3.SA,Light S.A.
+VAMO3.SA,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A."
+LSXM34.SA,Liberty Media Corporation
+EQPA3.SA,Equatorial Pará Distribuidora de Energia S.A.
+ALUP3.SA,Alupar Investimento S.A.
+ALSO3.SA,Aliansce Sonae Shopping Centers SA
+ALUP4.SA,Alupar Investimento S.A.
+GUAR3.SA,Guararapes Confecções S.A.
+ARZZ3.SA,Arezzo Indústria e Comércio S.A.
+SLCE3.SA,SLC Agrícola S.A.
+ODPV3.SA,Odontoprev S.A.
+ECOR3.SA,EcoRodovias Infraestrutura e Logística S.A.
+SULA4.SA,Sul América S.A.
+V1IP34.SA,Vipshop Holdings Limited
+ENMT3.SA,Energisa Mato Grosso - Distribuidora de Energia S/A
+EQMA3B.SA,Equatorial Maranhão Distribuidora de Energia S.A.
+EMBR3.SA,Embraer S.A.
+SOMA3.SA,Grupo de Moda SOMA S.A.
+GRND3.SA,Grendene S.A.
+SAPR3.SA,Companhia de Saneamento do Paraná - SANEPAR
+SAPR4.SA,Companhia de Saneamento do Paraná - SANEPAR
+LINX3.SA,Linx S.A.
+TIET3.SA,AES Tietê Energia S.A.
+TIET4.SA,AES Tietê Energia S.A.
+A1TH34.SA,Autohome Inc.
+TAEE11.SA,Transmissora Aliança de Energia Elétrica S.A.
+GPRO34.SA,"GoPro, Inc."
+IGTA3.SA,Iguatemi Empresa de Shopping Centers S.A.
+VIVA3.SA,Vivara Participações S.A.
+GPAR3.SA,Companhia CELG de Participações S/A
+BNBR3.SA,Banco do Nordeste do Brasil S.A.
+CSMG3.SA,Companhia de Saneamento de Minas Gerais
+CNTO3.SA,Grupo SBF S.A.
+BRSR5.SA,Banco do Estado do Rio Grande do Sul S.A.
+MOVI3.SA,Movida Participações S.A.
+EKTR4.SA,Elektro Redes S.A.
+EKTR3.SA,Elektro Redes S.A.
+BRSR6.SA,Banco do Estado do Rio Grande do Sul S.A.
+BRSR3.SA,Banco do Estado do Rio Grande do Sul S.A.
+STBP3.SA,Santos Brasil Participações S.A.
+AURA33.SA,Aura Minerals Inc.
+UNIP3.SA,Unipar Carbocloro S.A.
+UNIP6.SA,Unipar Carbocloro S.A.
+UNIP5.SA,Unipar Carbocloro S.A.
+JHSF3.SA,JHSF Participações S.A.
+BEEF3.SA,Minerva S.A.
+COCE3.SA,Companhia Energética do Ceará - Coelce
+HBSA3.SA,Hidrovias do Brasil S.A.
+SAPR11.SA,Companhia de Saneamento do Paraná - SANEPAR
+TELB4.SA,Telecomunicações Brasileiras S.A. - TELEBRÁS
+TELB3.SA,Telecomunicações Brasileiras S.A. - TELEBRÁS
+BOAS3.SA,Boa Vista Serviços S.A.
+BRPR3.SA,BR Properties S.A.
+ANIM3.SA,Anima Holding S.A.
+COCE5.SA,Companhia Energética do Ceará - Coelce
+PGMN3.SA,Empreendimentos Pague Menos S.A.
+RAPT3.SA,Randon S.A. Implementos e Participações
+RAPT4.SA,Randon S.A. Implementos e Participações
+CAML3.SA,Camil Alimentos S.A.
+CASH3.SA,Méliuz S.A.
+TIET11.SA,AES Tietê Energia S.A.
+RRRP3.SA,3R Petroleum Óleo e Gás S.A.
+LJQQ3.SA,Lojas Quero-Quero S.A.
+SEQL3.SA,Sequoia Logística e Transportes S.A.
+CEAB3.SA,C&A Modas S.A.
+GEPA4.SA,Rio Paranapanema Energia S.A.
+GEPA3.SA,Rio Paranapanema Energia S.A.
+ENJU3.SA,Enjoei.com.br Atividades de Internet S.A.
+LOGG3.SA,LOG Commercial Properties e Participações S.A.
+CVCB3.SA,CVC Brasil Operadora e Agência de Viagens S.A.
+WSON33.SA,Wilson Sons Limited
+BMGB4.SA,Banco BMG S.A.
+CURY3.SA,Cury Construtora e Incorporadora S.A.
+ENAT3.SA,Enauta Participações S.A.
+TUPY3.SA,Tupy S.A.
+PNVL4.SA,Dimed S.A. Distribuidora de Medicamentos
+PNVL3.SA,Dimed S.A. Distribuidora de Medicamentos
+ABCB4.SA,Banco ABC Brasil S.A.
+MOAR3.SA,Monteiro Aranha S.A.
+AMBP3.SA,Ambipar Participações e Empreendimentos S.A.
+TEND3.SA,Construtora Tenda S.A.
+BKBR3.SA,BK Brasil Operação e Assessoria a Restaurantes S.A.
+HGTX3.SA,Cia. Hering
+PARD3.SA,Instituto Hermes Pardini S.A.
+SMLS3.SA,Smiles Fidelidade S.A.
+CSRN6.SA,Companhia Energética do Rio Grande do Norte - COSERN
+CSRN3.SA,Companhia Energética do Rio Grande do Norte - COSERN
+CBEE3.SA,Ampla Energia e Serviços S.A.
+JSLG3.SA,JSL S.A.
+POMO3.SA,Marcopolo S.A.
+POMO4.SA,Marcopolo S.A.
+EVEN3.SA,Even Construtora e Incorporadora S.A.
+FRAS3.SA,Fras-le S.A.
+LEVE3.SA,MAHLE Metal Leve S.A.
+KNRI11.SA,Kinea Renda Imobiliária Fundo de Investimento Imobiliário
+FESA4.SA,Cia de Ferro Ligas da Bahia - FERBASA
+BRCR11.SA,Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund
+FESA3.SA,Cia de Ferro Ligas da Bahia - FERBASA
+JPSA3.SA,Jereissati Participações S.A.
+SCAR3.SA,São Carlos Empreendimentos e Participações S.A.
+DIRR3.SA,Direcional Engenharia S.A.
+VULC3.SA,Vulcabras Azaleia S.A.
+MYPK3.SA,Iochpe-Maxion S.A.
+CLSC4.SA,Centrais Elétricas de Santa Catarina S.A.
+TRIS3.SA,Trisul S.A.
+HGLG11.SA,Cshg Logistica - Fundo De Investimento Imobiliario
+EMAE4.SA,Empresa Metropolitana de Águas e Energia S.A.
+CLSC3.SA,Centrais Elétricas de Santa Catarina S.A.
+KNCR11.SA,Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII
+CEBR5.SA,Companhia Energética de Brasília - CEB
+CEBR3.SA,Companhia Energética de Brasília - CEB
+SEER3.SA,Ser Educacional S.A.
+CCPR3.SA,Cyrela Commercial Properties S.A.
+CEBR6.SA,Companhia Energética de Brasília - CEB
+DOHL3.SA,Döhler S.A.
+DOHL4.SA,Döhler S.A.
+AGRO3.SA,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas
+HBRE3.SA,HBR Realty Empreendimentos Imobiliários S.A.
+NGRD3.SA,Neogrid Participações S.A.
+OFSA3.SA,Ouro Fino Saúde Animal Participações S.A.
+BBPO11.SA,BB Progressivo II Fundo de Investimento Imobiliário - FII
+LAVV3.SA,Lavvi Empreendimentos Imobiliários S.A.
+GFSA3.SA,Gafisa S.A.
+TASA4.SA,Taurus Armas S.A.
+BEES3.SA,Banestes S.A - Banco do Estado do Espírito Santo
+BEES4.SA,Banestes S.A - Banco do Estado do Espírito Santo
+TASA3.SA,Taurus Armas S.A.
+ALPK3.SA,"Allpark Empreendimentos, Participações e Serviços S.A."
+TGMA3.SA,Tegma Gestão Logística S.A.
+LOGN3.SA,Log-In Logística Intermodal S.A.
+HFOF11.SA,Hedge Top Fofii 3 Fundo Investimento Imobilirio
+SQIA3.SA,Sinqia S.A.
+HGRE11.SA,CSHG Real Estate - Fundo de Investimento Imobiliario - FII
+RANI3.SA,Irani Papel e Embalagem S.A.
+AMAR3.SA,Marisa Lojas S.A.
+MTRE3.SA,Mitre Realty Empreendimentos e Participações S.A.
+MILS3.SA,Mills Estruturas e Serviços de Engenharia S.A.
+PTBL3.SA,PBG S.A.
+HSML11.SA,Hsi Malls Fundo De Investimento Imobiliario
+HBOR3.SA,Helbor Empreendimentos S.A.
+MELK3.SA,Melnick Even Desenvolvimento Imobiliário S.A.
+BRGE6.SA,Consórcio Alfa de Administração S.A.
+JSRE11.SA,JS Real Estate multigestão - FII fund
+CRPG3.SA,Tronox Pigmentos do Brasil S.A.
+ROMI3.SA,Indústrias Romi S.A.
+PLPL3.SA,Plano & Plano Desenvolvimento Imobiliário S.A.
+CRPG5.SA,Tronox Pigmentos do Brasil S.A.
+CRPG6.SA,Tronox Pigmentos do Brasil S.A.
+WIZS3.SA,Wiz Soluções e Corretagem de Seguros S.A.
+AALR3.SA,Centro de Imagem Diagnósticos S.A.
+SHUL4.SA,Schulz S.A.
+BRGE5.SA,Consórcio Alfa de Administração S.A.
+BAZA3.SA,Banco da Amazônia S.A.
+HGBS11.SA,HEDGE Brasil Shopping Fundo de Investimento Imobiliário
+EUCA3.SA,Eucatex S.A. Indústria e Comércio
+EUCA4.SA,Eucatex S.A. Indústria e Comércio
+BIOM3.SA,Biomm S.A.
+MEAL3.SA,International Meal Company Alimentação S.A.
+BRGE11.SA,Consórcio Alfa de Administração S.A.
+KEPL3.SA,Kepler Weber S.A.
+BRIV4.SA,Banco Alfa de Investimento S.A.
+ABCP11.SA,FII ABC Plaza Shopping Fund
+BRIV3.SA,Banco Alfa de Investimento S.A.
+WLMM4.SA,WLM Participações e Comércio de Máquinas e Veículos S.A.
+WLMM3.SA,WLM Participações e Comércio de Máquinas e Veículos S.A.
+BMEB4.SA,Banco Mercantil do Brasil S.A.
+BMEB3.SA,Banco Mercantil do Brasil S.A.
+MDNE3.SA,Moura Dubeux Engenharia S.A.
+LIPR3.SA,Eletrobras Participações S.A. - Eletropar
+BRGE8.SA,Consórcio Alfa de Administração S.A.
+PEAB3.SA,Companhia de Participações Aliança da Bahia
+PEAB4.SA,Companhia de Participações Aliança da Bahia
+PFRM3.SA,Profarma Distribuidora de Produtos Farmacêuticos S.A.
+BRGE3.SA,Consórcio Alfa de Administração S.A.
+GPCP3.SA,GPC Participações S.A.
+CGRA4.SA,Grazziotin S.A.
+PATI3.SA,Panatlântica S.A.
+PATI4.SA,Panatlântica S.A.
+CGRA3.SA,Grazziotin S.A.
+NVHO11.SA,Fundo Invest
+PQDP11.SA,Parque Dom Pedro Shopping Center Fund
+ETER3.SA,Eternit S.A.
+POSI3.SA,Positivo Tecnologia S.A.
+TCSA3.SA,Tecnisa S.A.
+LPSB3.SA,LPS Brasil - Consultoria de Imóveis S.A.
+CRIV4.SA,"Financeira Alfa S.A. - Crédito, Financiamento e Investimentos"
+CRIV3.SA,"Financeira Alfa S.A. - Crédito, Financiamento e Investimentos"
+CARD3.SA,CSU Cardsystem S.A.
+VLID3.SA,Valid Soluções S.A.
+RPAD5.SA,Alfa Holdings S.A.
+RPAD6.SA,Alfa Holdings S.A.
+TESA3.SA,Terra Santa Agro S.A.
+RPAD3.SA,Alfa Holdings S.A.
+AFLT3.SA,Afluente Transmissão de Energia Elétrica S.A.
+DMVF3.SA,d1000 Varejo Farma Participações S.A.
+BOBR4.SA,Bombril S.A.
+APER3.SA,Alper Consultoria e Corretora de Seguros S.A.
+CEED3.SA,Companhia Estadual de Distribuição de Energia Elétrica
+AVLL3.SA,Alphaville S.A.
+SHPH11.SA,FDO INV Imob Shopping Patio Higienopolis
+RBRF11.SA,Fundo Investimento Imobiliario Rbr Alpha Fundos De Fundos
+BGIP4.SA,Banco do Estado de Sergipe S.A.
+BGIP3.SA,Banco do Estado de Sergipe S.A.
+BAUH4.SA,Excelsior Alimentos S.A.
+PPLA11.SA,PPLA Participations Ltd.
+RNEW11.SA,Renova Energia S.A.
+SDIL11.SA,SDI Logística Rio - Fundo de Investimento Imobiliário - FII
+HABT11.SA,Habitat Ii - Fundo De Investimento Imobiliario
+MXRF11.SA,Maxi Renda Fundo De Investimento Imobiliaro - FII
+RDNI3.SA,RNI Negócios Imobiliários S.A.
+QAGR11.SA,Quasar Agro - Fundo De Investimento Imobiliario
+RBVA11.SA,Fundo Invest Imobiliario Agencias Caixa - FII Fund
+BRGE12.SA,Consórcio Alfa de Administração S.A.
+MERC3.SA,Mercantil do Brasil Financeira S.A.
+MERC4.SA,Mercantil do Brasil Financeira S.A.
+PMAM3.SA,Paranapanema S.A.
+GPIV33.SA,"GP Investments, Ltd."
+VGIR11.SA,Valora Re III Fundo De Investimento Imobiliario
+CSAB4.SA,Companhia de Seguros Alianca da Bahia
+JOPA3.SA,JOSAPAR Joaquim Oliveira S.A. Participações
+FIIB11.SA,Real Estate Investment Fund Industry in Brazil
+TPIS3.SA,Triunfo Participações e Investimentos S.A.
+FRIO3.SA,Metalfrio Solutions S.A.
+LUXM4.SA,Trevisa Investimentos S.A.
+UCAS3.SA,Unicasa Indústria de Móveis S.A.
+PRNR3.SA,Priner Serviços Industriais S.A.
+SGPS3.SA,Springs Global Participações S.A.
+LLIS3.SA,Restoque Comércio e Confecções de Roupas S.A.
+DMMO3.SA,Dommo Energia S.A.
+RCSL4.SA,Recrusul S/A
+RCSL3.SA,Recrusul S/A
+PTNT4.SA,Pettenati S.A. Industria Têxtil
+PTNT3.SA,Pettenati S.A. Industria Têxtil
+MTSA4.SA,METISA Metalúrgica Timboense S.A.
+HGCR11.SA,CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII
+CTSA3.SA,Companhia Tecidos Santanense Ltda.
+CTNM3.SA,Companhia de Tecidos Norte de Minas
+VISC11.SA,Vinci Shopping Centers Fundo Investimento Imobiliario - Fii
+CTNM4.SA,Companhia de Tecidos Norte de Minas
+HBTS5.SA,Companhia Habitasul de Participações
+VRTA11.SA,Fator Veritá Fundo de Investimento Imobiliário - FII
+INEP4.SA,Inepar S.A. Indústria e Construções
+INEP3.SA,Inepar S.A. Indústria e Construções
+SHOW3.SA,T4F Entretenimento S.A.
+RSID3.SA,Rossi Residencial S.A.
+FHER3.SA,Fertilizantes Heringer S.A.
+CAMB3.SA,Cambuci S.A.
+FPAB11.SA,Fundo de Investimento Imobiliário Projeto Água Branca
+RPMG3.SA,Refinaria de Petróleos de Manguinhos S.A.
+BPFF11.SA,Fundo de Investimento Imobiliário - FII Brasil Plural Absoluto Fundo de Fundos
+IGBR3.SA,IGB Eletronica S.A.
+CTSA4.SA,Companhia Tecidos Santanense Ltda.
+EALT4.SA,Electro Aço Altona S.A.
+EALT3.SA,Electro Aço Altona S.A.
+AHEB3.SA,São Paulo Turismo S.A.
+BBRC11.SA,BB Renda Corporativa Fundo de Investimento Imobiliário - FII
+PLCR11.SA,Plural Recebiveis Imobiliarios Fundo De Investimento Imobiliario
+MALL11.SA,Malls Brasil Fundo Investimento Imobiliario
+THRA11.SA,Fundo de Investimento Imobiliário BM Cyrela Thera Corporate
+BCIA11.SA,Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario
+RNGO11.SA,Fundo de Investimento Imobiliário Rio Negro
+NORD3.SA,Nordon Indústrias Metalúrgicas S/A
+BAHI3.SA,Bahema Educação S.A.
+VLOL11.SA,Fundo de Investimento Imobiliario - FII Vila Olimpia Corporate
+RNEW4.SA,Renova Energia S.A.
+RNEW3.SA,Renova Energia S.A.
+FIGS11.SA,Fundo de Investimento Imobiliário General Shopping Ativo e Renda - FII
+BTLG11.SA,BTG Pactual Logística Fundo de Investimento Imobiliário
+BALM4.SA,Baumer S.A.
+BALM3.SA,Baumer S.A.
+AHEB5.SA,São Paulo Turismo S.A.
+BTTL3.SA,Battistella Administração e Participações S.A.
+SPTW11.SA,Sp Downtown Fundo de Investimento Imobiliário - FII
+CTKA3.SA,Karsten S.A.
+BCRI11.SA,Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII
+ONEF11.SA,Fundo de Investimento Imobiliario The One Fund
+CTKA4.SA,Karsten S.A.
+RBRD11.SA,RB Capital Renda II Fundo de Investimento Imobiliário - FII
+TKNO4.SA,Tekno S.A. Indústria e Comércio
+PINE4.SA,Banco Pine S.A.
+MMXM11.SA,MMX Mineração e Metálicos S.A.
+MMXM3.SA,MMX Mineração e Metálicos S.A.
+BMIN3.SA,Banco Mercantil de Investimentos S.A.
+RBED11.SA,Aesapar Fundo de Investimento Imobiliário - FII
+TXRX3.SA,Têxtil Renauxview S.A.
+XPCM11.SA,XP Corporate Macaé Fundo de Investimento Imobiliário - FII
+TXRX4.SA,Têxtil Renauxview S.A.
+VIVR3.SA,Viver Incorporadora e Construtora S.A.
+RBBV11.SA,JHSF Rio Bravo Fazenda Boa Vista Capital Protegido Fundo de Investimento Imobiliário - FII
+SOND6.SA,Sondotécnica Engenharia de Solos S.A.
+SOND5.SA,Sondotécnica Engenharia de Solos S.A.
+BMKS3.SA,Bicicletas Monark S.A.
+TECN3.SA,Technos S.A.
+BMIN4.SA,Banco Mercantil de Investimentos S.A.
+AZEV4.SA,Azevedo & Travassos S.A.
+PORD11.SA,Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII
+AZEV3.SA,Azevedo & Travassos S.A.
+CTXT11.SA,Fundo Invest Imobiliario Centro Textil Internacional - Cotas Fund
+GSHP3.SA,General Shopping e Outlets do Brasil S.A.
+CARE11.SA,Máxima Renda Corporativa Fundo de Investimento Imobiliário - FII
+MBRF11.SA,Fundo De Investimento Imobiliário Mercantil Do Brasil-fii -Inicio
+CEDO3.SA,Companhia de Fiação e Tecidos Cedro e Cachoeira S.A.
+CEDO4.SA,Companhia de Fiação e Tecidos Cedro e Cachoeira S.A.
+BNFS11.SA,Banrisul N Front Fund Investment IMO FII Fund
+HMOC11.SA,Fundo de Investimento Imobiliário GWI Renda Imobiliária - FII
+ATOM3.SA,Atom Empreendimentos e Participações S.A.
+BBRK3.SA,Brasil Brokers Participações S.A.
+ATMP3.SA,ATMA Participações S.A.
+DTCY3.SA,DTCOM - Direct to Company S.A.
+OSXB3.SA,OSX Brasil S.A.
+CRDE3.SA,CR2 Empreendimentos Imobiliários S.A.
+LUPA3.SA,Lupatech S.A.
+PLAS3.SA,Plascar Participações Industriais S.A.
+MNDL3.SA,Mundial S.A. - Produtos de Consumo
+EDFO11B.SA,Fundo de Investimento Imobiliário Edifício Ourinvest - Cotas Fund
+PDGR3.SA,PDG Realty S.A. Empreendimentos e Participações
+DRIT11B.SA,Multigestao Renda Comercial Fundo De Investimento Imobiliario - FII
+MNPR3.SA,Minupar Participações S.A.
+HOOT4.SA,Hotéis Othon S.A.
+SNSY5.SA,Sansuy S.A.
+SLED3.SA,Saraiva Livreiros S.A. - em Recuperação Judicial
+MGEL4.SA,Mangels Industrial S.A.
+FIVN11.SA,Vida Nova Fundo Investimento Immobiliere
+SLED4.SA,Saraiva Livreiros S.A. - em Recuperação Judicial
+PLRI11.SA,Polo Fundo de Investimento Imobiliario – FII Recebiveis Imobiliarios IMO - Cotas Fund
+SCPF11.SA,Scp Fundo De Investimento NPV
+AQLL11.SA,Aquilla Fundo Invest Imobiliario - Cotas Fund
+FMOF11.SA,Fundos de Investimento Imobiliário Memorial Office Of Cotas
+MWET4.SA,Wetzel S.A.
+MWET3.SA,Wetzel S.A.
+PRSV11.SA,Fundo de Investimento Imobiliário Presidente Vargas
+HAGA4.SA,HAGA S/A Indústria e Comércio
+HAGA3.SA,HAGA S/A Indústria e Comércio
+ESTR4.SA,Manufatura de Brinquedos Estrela S.A.
+FCFL11.SA,Fundo De Investimento Imobiliario Campus Faria Lima - Inicio De Negociacao
+TEKA3.SA,Teka Tecelagem Kuehnrich S.A.
+TEKA4.SA,Teka Tecelagem Kuehnrich S.A.
+CXTL11.SA,Fundo De Investimento Imobiliário Caixa Trx Logística Renda
+BDLL4.SA,Bardella S.A. Indústrias Mecânicas
+XTED11.SA,XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund
+NPAR11.SA,Fii Fundo Investimento Imobiliario Nestpar
+PABY11.SA,Fundo de Investimento Imobiliário Panamby
+TCNO3.SA,Tecnosolo Engenharia S.A.
+TCNO4.SA,Tecnosolo Engenharia S.A.
+FRTA3.SA,Pomifrutas S/A
+JBDU3.SA,Indústrias J.B. Duarte S.A.
+JBDU4.SA,Indústrias J.B. Duarte S.A.
+RBVO11.SA,Rio Bravo Credito - Imobiliario II Fundo Invest Imobiliario FII Fund
+CXCE11B.SA,Fundo de Investimento Caixa Cedae
+HETA4.SA,Hércules S.A - Fábrica de Talheres
+RBDS11.SA,RB Capital Development Residential Real Estate Investment Fund II
+N1WG34.SA,Rogue Swapping III
+PTCH34.SA,PETROCHIN DRN
+VOTS11.SA,Votorantim Securities Master Fundo Investimento Imobiliario Fii
+BUSM39.SA,Ishares Msci Usa Min Vol Factor ETF
+ERPA11.SA,Europa 105 Fundo Investimento Imobiliario
+BEWW39.SA,Ishares Msci Mexico ETF
+BHPG34.SA,BHP GROUP DRN
+NMRH34.SA,NOMURA HO DRN
+STMN34.SA,STMICROEL DRN
+TF595.SA,
+RDPD11.SA,Bb Renda Papeis Imobiliarios II Fundo Investimento Imobiliario
+TF495.SA,
+E1CO34.SA,ECOPETROL SADRN
+NETE34.SA,NETEASE DRN
+BBSD11.SA,BB ETF S&P Dividendos Brasil
+TF473.SA,
+FPOR11.SA,Porto Sudeste Royalties Fundo Investimento Participacoes Infraestrutura Fund
+B5P211.SA,It Now IMA-B5 P2 Fundo Ãndice
+DBAG34.SA,Deutsche Bank Aktiengesellschaft
+BILF39.SA,Ishares Latin America 40 ETF
+FSRF11.SA,Fiset FL Ref
+TF693.SA,ATIVO TESTE ON
+TF703.SA,ATIVO TESTE ON
+BIEF39.SA,COREMSCIEAFEDRN
+B1TI34.SA,BRITISH AMERDRN
+TF723.SA,ATIVO TESTE ON
+A1UA34.SA,AngloGold Ashanti Limited
+BEWU39.SA,MSCI UK DRN
+HCST11.SA,Hectare Student Housing I - Fundo De Investimento Em Participacoes Multiestrategia
+TF605.SA,
+TF475.SA,
+GPCP4.SA,GPC Participações S.A.
+RBRY11.SA,Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario
+GOVE11.SA,It Now IGCT Index Fund - GOVE11 ETF
+RFOF11.SA,Fundo De Investimento Imobiliario RB Capital I Fundo De Fundos
+GTWR11.SA,Fundo Investimento Imobiliario Green Towers
+MGHT11.SA,Fundo De Investimento Imobiliario Mogno Hoteis
+HGFF11.SA,CSHG Imobiliario Fof - Fundo De Investimento Imobiliario - Fii
+LVBI11.SA,Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund
+HRDF11.SA,Hedge Realty Development Fundo Investimento Imobiliario FII
+RCRB11.SA,Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa
+NSLU11.SA,Hospital Nossa Senhora De Lourde Fund
+PDTC3.SA,Padtec Holding S.A.
+HBRH11.SA,Fundo De Investimento ImobiliaRio Multi Renda Urbana
+HOSI11.SA,Fundo De Investimento Imobiliario Housi
+IFIE11.SA,Ifi E Inter Fundo De Investimento Imobiliario
+OURE11.SA,Fundo De Investimento Imobiliario - Ourinvest CYRELA - Fii
+FLMA11.SA,Unitas DTVM S.A.
+BRCO11.SA,Bresco - Fundo De Investimento Imobiliario
+XPIE11.SA,XP Infra Fund II Fundo De Investimento Em Participacoes Infraestrutura
+VSEC11.SA,Imobiliario Votorantim Securities Fundos de Investimento
+OUJP11.SA,Ourinvest Jpp Fundo Investimento Imobiliario - Fii
+BABA34.SA,ALIBABAGR DRN
+RECR11.SA,Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios
+MBLY3.SA,Mobly S.A.
+BBOV11.SA,Bb Etf Ibovespa Fundo De Indice
+TEPP11.SA,SDI Properties Fundo De Investimento Imobiliario
+IMBB11.SA,ETF Bradesco IMA-B Fundo de Ãndice
+NEWL11.SA,Newport Logastica Fundo De Investimento Imobiliario
+FAED11.SA,Fundo de Investimento Imobiliário - FII Anhanguera Educacional
+LUGG11.SA,Luggo Fundo De Investimento Imobiliario De FII
+NOKI34.SA,Nokia Corporation
+RBIV11.SA,Rio Bravo Credito Imobiliario IV Fundo De Investimento Imobiliario - FII
+CHCM34.SA,"Charter Communications, Inc."
+VIVR1.SA,"VIVER DO 1,27"
+BACW39.SA,Ishares Msci Acwi ETF
+Z1TO34.SA,ZTO EXPRESS DRN
+BEWH39.SA,Ishares Msci Hong Kong Etf
+BEGE39.SA,"iShares, Inc. - iShares ESG Aware MSCI EM ETF"
+EDGA11.SA,Fundo de Investimento Imobiliario - FII Edificio Galeria
+TSMC34.SA,TAIWANSMFAC DRN
+XPCI11.SA,Xp Credito Imobiliario ae Fundo De Investimento Imobiliario
+IRDM11.SA,Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios
+CPTS11.SA,Capitania Securities II Fundo Investimento Imobiliario FII
+RZAK11.SA,Riza Akin Fundo De Investimento Imobiliario – FII
+BEWZ39.SA,Ishares Msci Brazil ETF
+HUSC11.SA,Fundo Investimento Imobiliario Hospital Unimed Sul Capixaba
+V1OD34.SA,VODAFONE GRODRN
+BIXJ39.SA,Ishares Global Healthcare Etf
+REIT11.SA,REIT Rivera Fundo Invest Imobiliario Cotas
+S1KM34.SA,SK TELECOM CDRN
+T1AL34.SA,TAL EDUCATIODRN
+E1QN34.SA,EQUINOR ASA DRN
+PQAG11.SA,Rb Capital Anhanguera Fundo De Investimento Imobiliario
+ASML34.SA,ASML HOLD DRN
+A1EG34.SA,Aegon N.V.
+QIFF11.SA,Quata Monetai Fundo De Fundos - Fii
+EVBI11.SA,Vbi Consumo Essencial Fundo De Investimento Imobiliarios
+BEWG39.SA,Ishares Msci Germany ETF
+H1DB34.SA,HDFC BANK LTDRN
+WTSP11B.SA,Fundo De Investimento Imobiliario Ourinvest Re I
+DEOP34.SA,DIAGEO PL DRN
+LFTT11.SA,Loft II Fundo De Investimento Imobiliario
+MINT11.SA,Fundo De Investimento Imobiliario Mint Educacional
+E1DU34.SA,NEW ORIENTALDRN
+TXSA34.SA,TERNIUMSA DRN
+ORPD11.SA,Ouro Preto Desenvolvimento Imobiliario I Fundo Investimento Imobiliario - Fii
+KDIF11.SA,Kinea Infra Fundo Investimento Cotas Fundos Investimento Direitos Creditorios Infraestrutura
+BLMG11.SA,
+LGCP11.SA,Imob I Fundo De Investimento Imobiliario - FII
+FVPQ11.SA,FII V PARQUECI ER
+ULEV34.SA,UNILEVER DRN
+BARI12.SA,"FII BARIGUI DM 103,72"
+TF503.SA,
+TF483.SA,
+B5MB11.SA,ETF Bradesco IMAB-5+ Fundo de Ãndice
+FMSC34.SA,FRESENIUS DRN
+TF535.SA,
+TF655.SA,
+TF675.SA,
+TF685.SA,
+TAKP34.SA,TAKEDAPH DRN
+HCRI11.SA,Fundo de Investimento Imobiliário - FII Hospital da Criança
+MORE11.SA,More Real Estate FOF Fundo De Investimento Imobiliario
+BIJH39.SA,Ishares Core S&P Mid-Cap Etf
+MOSI3.SA,Mosaico Tecnologia ao Consumidor S.A.
+SMAL11.SA,iShares BM&FBOVESPA Small Cap Fundo de Ãndice ETF
+HCTR11.SA,Fundo De Investimento Imobiliario Hectare Ce
+IVVB11.SA,iShares S&P 500 FIC FI IE
+INTB3.SA,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira
+BCFF11.SA,Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De Fundos
+R1YA34.SA,RYANAIR HOLDDRN
+BIGF39.SA,GLOBAL INFRADRN
+TF523.SA,
+TF543.SA,
+ALMI11.SA,Fundo De Investimento Imobiliario Torre Almirante
+ARCT11.SA,Yaguara Capital High Yield Fundo De Investimento Imobiliario
+BAER39.SA,US AEROSPACEDRN
+BSLV39.SA,Ishares Silver Trust
+BRZP11.SA,Brz Infra Portos Fundo De Investimento Em Participacoes Em Infraestrutura
+MATB11.SA,It Now IMAT Index Fund - MATB11 ETF
+BARI11.SA,Fundo De Investimento Imobiliario Barigui Rendimentos Imobiliario I Fii
+BBFO11.SA,BB Fundos De Fundos - Fundo De Investimento Imobiliario
+FNAM11.SA,Fundo de Investimento Amazônia - FINAM
+GALG11.SA,Guardian Logistica Fundo De Investimento Imobiliario
+HGPO11.SA,Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario
+EURO11.SA,Coinvalores Dtvm Ltda.
+MCCI11.SA,Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios
+PATL11.SA,Patria Logistica Fundo De Investimento Imobiliario
+MFII11.SA,Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário
+MFAI11.SA,Merito Fundo E Acoes Imobiliarias Fii - Fundo De Investimento Imobiliario
+HREC11.SA,Hedge Recebiveis Fundo De Investimento Imobiliario
+BLCP11.SA,Bluecap Renda Logistica FII Fund
+VILG11.SA,Vinci Logistica Fundo Investimento Imobiliario FII
+GOLD11.SA,Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior
+KISU11.SA,Kilima Fundo De Investimento Em Cotas De Fundos Imobiliarios Suno 30
+POWE3.SA,
+TRXF11.SA,TRX Renda Fundo Investimento Imobiliario
+LAME2.SA,"LOJAS AMERICDP 19,38"
+S1MF34.SA,SUMITOMO MITDRN
+TOUR12.SA,FUNDO DE INVESTIMENTO IMOBILIÁRIO TOURMALET II
+N1IC34.SA,NICE LTD DRN
+AHEB6.SA,São Paulo Turismo S.A.
+RNDP11.SA,BB Renda de Papéis Imobiliários Fundo de Investimento Imobiliário - FII
+HPDP11.SA,Hedge Real Estate I Fundo De Investimento Imobliario
+R1DY34.SA,DR REDDYS LADRN
+PHMO34.SA,Philip Morris International Inc.
+RBRS11.SA,Rio Bravo Renda Residencial Fundo De Investimentos Imobiliario
+FIXA11.SA,Mirae Asset Renda Fixa Pre Fundo De Indice
+TF515.SA,
+TF565.SA,
+TF665.SA,
+TF603.SA,
+BIXN39.SA,GLOBAL TECH DRN
+RIOT34.SA,RIO TINTO DRN
+FDES11.SA,Fundo de Recuperacao Economica
+BITO39.SA,CORE SP TOTADRN
+P1DD34.SA,PINDUODUO INDRN
+CAJI34.SA,CANON INC DRN
+ARRI11.SA,Fundo De Investimento Imobiliario Atrio Reit Recebiveis Imobiliarios
+APER1.SA,"ALPER S.A. DO 29,29"
+RELG11.SA,Fundo De Investimento Imobiliario Rec Logistaca
+B1NT34.SA,BIONTECH SE DRN
+CPFF11.SA,Capitania Reit FOF - Fundo De Investimento Imobiliario
+PRSN11B.SA,Personale I Fundo Invest Imobiliario
+MGFF11.SA,Fundo Investimento Imobiliario Mogno Fundo Fundos
+BBRK1.SA,"BR BROKERS DO 2,84"
+JFLL11.SA,JFL Living Fundo De Investimento Imobiliario
+VIGT11.SA,Vinci Energia Fundo De Investimento Em Participacao Em Infraestrutura
+TRNT11.SA,Fundo de Investimento Imobiliário - FII Torre Norte
+PATC11.SA,Patria Edificios Corporativos Fundo Investimento Imobiliario Fii
+RBFF11.SA,Fator IFIX Fundo Investimento Imobiliario - FII - Cotas Fund
+TORD11.SA,Tordesilhas Ei Fundo De Investimento Imobiliario
+SNSY3.SA,Sansuy S.A.
+KNHY11.SA,Kinea High Yield Cri Fundo Investimento Imobiliario FII
+VCJR11.SA,Vectis Juros Real Fundo De Investimento Imobiliario - Fii
+IFRA11.SA,Itau FIC De Fundos De Investimento Em Direitos Creditorios De Infraestrutura
+FNOR11.SA,Finor -Ci Fund
+BCSA34.SA,SANTANDER DRN
+RBCO11.SA,RB Capital Office Income Fundo De Investimento Imobiliario
+BIDU34.SA,BAIDU INC DRN
+BPRP11.SA,Fundo De Investimento Imobiliario - Fii Brlprop
+BIYW39.SA,US TECHNOLOGDRN
+MGCR11.SA,FII Mogno Cri High Grade
+XPPR11.SA,Xp Properties Fundo De Investimento Imobiliario
+DMAC11.SA,Mac Fundo De Investimento Imobiliário fUND
+XPSF11.SA,XP Selection Fundo De Fundos De Investimento Imobiliario - FII
+L1FC34.SA,CHINA LIFE IDRN
+BIYF39.SA,US FINANCIALDRN
+E1DI34.SA,CONSOLIDATEDDRN
+VSHO11.SA,FII Votorantim Securities
+ATSA11.SA,Cshg Atrium Shopping Santo Andr Fundo De Investimento Imobilirio Fii
+HOND34.SA,HONDA MO DRN
+E1NI34.SA,ENEL AMERICADRN
+TF485.SA,
+TF713.SA,ATIVO TESTE ON
+P1KX34.SA,POSCO DRN
+TMCO34.SA,TOYOTAMO DRN
+RDSA34.SA,Royal Dutch Shell plc
+XPHT11.SA,XP Hoteis Fundo De Investimento Imobiliario FII
+TF525.SA,
+LASC11.SA,Legatus Shoppings Fundo De Investimento Imobiliario - FII
+KFOF11.SA,Kinea Fundo Fundos De Investimento Imobiliario FII
+CVBI11.SA,Fundo De Investimento Imobiliario VBI Credito
+ESPA3.SA,MPM Corpóreos S.A.
+SNEC34.SA,SONY CORP DRN
+VIFI11.SA,Vinci Instrumentos Financeiros Fundo De Investimento Imobiliario
+RBRR11.SA,Fundo Investimento Imobiliario - FII RBR Rendimento High Grade
+JDCO34.SA,"JD.com, Inc."
+BOVA11.SA,iShares Ibovespa Fundo de Ãndice ETF
+BIDI11.SA,Banco Inter S.A.
+VGIP11.SA,Valora Cri Indice De Preco Fundo De Investimento Imobiliario
+RECT11.SA,Fundo De Investimento Imobiliario - FII UBS Office
+TF513.SA,
+TF493.SA,
+HGRU11.SA,CSHG Renda Urbana Fundo Investimento Imobilirio - FII
+CRIP34.SA,CTRIPCOM DRN
+BRIP11.SA,Brio Real Estate III - Fundo De Investimento Imobiliario
+BPAC9.SA,Banco BTG Pactual S.A.
+LAME1.SA,"LOJAS AMERICDO 15,65"
+IB5M11.SA,It Now IMA-B5+ FUNDO DE ÃNDICE
+BEWY39.SA,Ishares Msci South Korea Etf
+BREV11.SA,Brazil Real Estate Victory Fund I Fundo De Investimento Imobiliario
+I1BN34.SA,ICICI BANK LDRN
+INGG34.SA,ING GROEP DRN
+TOUR11.SA,FUNDO DE INVESTIMENTO IMOBILIÁRIO TOURMALET II
+KINP11.SA,Even Permuta Kinea Fii Fundo Investimento
+TRXB11.SA,Trx Real Estate II Fundo De Investimento Imobiliario - Fii
+RBGS11.SA,RB Capital General Shopping Sulacap Real Estate Investment Fund
+IRFM11.SA,It Now IRF-M P2 FUNDO DE ÃNDICE
+I1FO34.SA,INFOSYS LTD DRN
+S1BS34.SA,Sibanye Stillwater Limited
+T1EV34.SA,TEVA PHARMACDRN
+TF593.SA,
+FSPE11.SA,Fiset Pesca Fiset Fspe
+TF505.SA,
+F1TV34.SA,Fortive Corporation
+FMXB34.SA,"Fomento Económico Mexicano, S.A.B. de C.V."
+BILB34.SA,BILBAOVIZ DRN
+BEGD39.SA,TRTMSCI EAFEDRN
+TF555.SA,
+LOFT11B.SA,Loft I Fundo De Investimento Imobiliario
+CXRI11.SA,CXFI - Caixa Rio Bravo Fundo Fundos
+NEWU11.SA,Renda de Escritorios Fundo de Investimento Imobiliario - Cotas Fundo
+JPPA11.SA,JPP Allocation Mogno - Fundo De Investimento Imobiliario
+A1MX34.SA,AMERICAMOVILDRN
+L1YG34.SA,LLOYDS BANKIDRN
+OULG11.SA,Pedra Dourada Fundo De Investimento Imobiliário - FII
+BPML11.SA,Fundo De Investimento Imobiliario BTG Pactual Shoppings
+FIND11.SA,It Now IFNC Index Fund - FIND11 ETF
+BIEU39.SA,Ishares Core Msci Europe ETF
+BEEM39.SA,Ishares Msci Emerging Markets ETF
+BZLI11.SA,Brazil Realty Fundo Investimento Imobiliario
+NEWU11.SA,Renda de Escritorios Fundo de Investimento Imobiliario - Cotas Fundo
+TRXB11.SA,Trx Real Estate II Fundo De Investimento Imobiliario - Fii
+OULG11.SA,Pedra Dourada Fundo De Investimento Imobiliário - FII
+BIEU39.SA,Ishares Core Msci Europe ETF
+BPML11.SA,Fundo De Investimento Imobiliario BTG Pactual Shoppings
+FIND11.SA,It Now IFNC Index Fund - FIND11 ETF
+BIWM39.SA,Ishares Russell 2000 Etf
+BEEM39.SA,Ishares Msci Emerging Markets ETF
+CXRI11.SA,CXFI - Caixa Rio Bravo Fundo Fundos
+BEGU39.SA,Ishares Trust Ishares Esg Aware Msci Usa ETF
+B1IL34.SA,Bilibili Inc.
+BTCR11.SA,Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario
+BAAX39.SA,MSCI ASIA JPDRN
+CBOP11.SA,Castello Branco Off Park Fund In Im
+CEOC11.SA,Fundo de Investimento Imobiliário FII CEO Cyrela Fund
+BZLI11.SA,Brazil Realty Fundo Investimento Imobiliario
+CVBI12.SA,"FII VBI CRI DM 103,70"
+BPAC13.SA,Banco BTG Pactual S.A.
+A1ZN34.SA,ASTRAZENECA DRN
+BBFI11B.SA,BB Fundo De Investimento Imobiliario Progressivo
+IBFF11.SA,Fundo De Investimento Imobiliario Fof Integral Brei
+HSAF11.SA,Hsi Ativos Financeiros Fundos Investimentos Imoliarios
+HLOG11.SA,Hedge Logistica Fundo Investimento Imobiliario
+PPEI11.SA,Prisma Proton Energia Fundo De Investimento Em Participacoes Em Infraestrutura
+RZTR11.SA,Fundo De Investimento Imobiliario Riza Terrax
+GSFI11.SA,General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII
+KNRE11.SA,Kinea II Real Estate Equity Fundo de Investimento Imobiliário
+RRCI11.SA,RB Capital Asset Management Ltda.
+TGAR11.SA,Fundo Investimento Imobiliario Tg Ativo Real
+CNES11.SA,Fundo De Investimento Imobiliario Bm Cenesp - Fii - Inicio De Negociacao
+G1SK34.SA,GLAXOSMITHKLDRN
+BNDA39.SA,MSCI INDIA DRN
+ENDD11.SA,Endurance Debt Fundo De Investimento Em Participacoes Em Infraestrutura
+BIAU39.SA,Ishares Gold Trust
+GCFF11.SA,Galapagos Fundo De Fundos Fii Fundo De Investimento Imobiliario
+ISUS11.SA,It Now ISE Index Fund - ISUS11 ETF
+FEXC11.SA,Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De CRI
+VTLT11.SA,Fundo Investimento Imobiliario Votorantim Logistica
+NCHB11.SA,FII NCH BRA CI
+OUFF11.SA,Fundo De Investimento Imobiliario - Ourinvest CYRELA - Fii
+DEVA11.SA,Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario
+AALL34.SA,American Airlines Group Inc.
+JALL3.SA,
+KNSC11.SA,Kinea Securities Fundo De Investimento Imobiliario – Fii
+RBRP11.SA,Fundo Investimento Imobiliario Rbr Properties Fii
+BOVB11.SA,ETF Bradesco Ibovespa Fundo de Ãndice
+XBOV11.SA,CAIXA ETF Ibovespa Index Fund
+TF573.SA,
+TF563.SA,
+TF623.SA,
+BIBB39.SA,NASDAQ BIOTCDRN
+DIVO11.SA,It Now IDIV Index Fund - DIVO11 ETF
+PFIN11.SA,Perfin Apollo Energia Fundo De Investimento Em Participacoes Em Infraestrutura
+XPML11.SA,Xp Malls Fundo Investimentos Imobiliarios
+ACWI11.SA,Trend Etf Msci Acwi Fundo De Indice
+EURP11.SA,Trend ETF MSCI Europa Fundo De Andice
+XINA11.SA,Trend Etf Msci China Fundo De Indice
+BDIV11.SA,Btg Pactual Infraestrutura Dividendos Fundo De Investimento Em Participacoes Em Infraestrutura
+I1QY34.SA,IQIYI INC DRN
+M1LC34.SA,MELCO RESORTDRN
+G1DS34.SA,GDS Holdings Limited
+S1NN34.SA,SMITH & NEPHDRN
+RSPD11.SA,RB Capital Desenvolvimento Residencial III Fundo De Investimento Imobillario - FII
+TORM13.SA,Fundo de Investimento em Cotas Fund
+E1RI34.SA,ERICSSON LM DRN
+FLCR11.SA,Faria Lima Capital Recebiveis Imobiliarios I FII
+B1CS34.SA,BARCLAYS PLCDRN
+FCCQ11.SA,FCCQ - Conquest Fundo Investimento Participacoes - Cota Fundo – Cotas Fund
+BIJR39.SA,CORESMALLCAPDRN
+BIEM39.SA,Ishares Core Msci Emerging Markets ETF
+FATN11.SA,Fundo De Investimento Imobiliario Athena I
+RBIR11.SA,Rb Capital Desenvolvimento Residencial IV Fundo De Investimento Imobiliario - FII
+TF585.SA,
+TF545.SA,
+TF575.SA,
+SAPP34.SA,SAP SE DRN
+TF625.SA,
+ESGB11.SA,BTG Pactual ESG Fundo de Ãndice S&P/B3 Brazil ESG
+K1BF34.SA,KB FINANCIALDRN
+C1SU34.SA,CREDIT SUISSDRN
+TLNC34.SA,TELEFONIC DRN
+AIEC11.SA,Autonomy Edifícios Corporativos Fundo de Investimento Imobiliario
+WPLZ11.SA,Fundo Investec IMB Shopping West Plaza Fund
+M1UF34.SA,MITSUBISHI UDRN
+MAXR11.SA,Fundo De Investimentos Imobiliarios - Max Ret
+HTMX11.SA,FD Invest Imob Hotel Maxinvest
+CRFF11.SA,Caixa Rio Bravo Fundo De Fundos De Investimento Imobiliario II-Cotas
+BOVV11.SA,It Now Ibovespa Fundo De Ãndice
+PIBB11.SA,It Now PIBB IBrX-50 Index Fund - PIBB11 ETF
+SPXI11.SA,It Now S&P500 TRN Fund ETF
+ABCB2.SA,"ABC BRASIL DP 12,01"
+ARMT34.SA,ARCELOR DRN
+GGRC11.SA,Ggr Covipe Renda Fundo Investimento Imobiliario
+ABUD34.SA,Anheuser-Busch InBev SA/NV
+XPIN11.SA,Xp Industrial Fundo Investimento Imobiliario
+ALZR11.SA,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario
+G1LP34.SA,GALAPAGOS NVDRN
+SARE11.SA,Santander Renda De Alugueis Fundo Investimento Imobiliarios
+XPHT12.SA,XP Hoteis Fundo De Investimento Imobiliario FII
+BEWT39.SA,MSCI TAIWAN DRN
+TF553.SA,
+TF533.SA,
+HTMX11.SA,FD Invest Imob Hotel Maxinvest
+RBRL11.SA,RBR Log FII
+ECOO11.SA,iShares Ãndice Carbono Eficiente (ICO2) Brasil Fundo de Ãndice ETF
+FAMB11B.SA,Fundo de Investimento Imobiliario Edificio Almirante Barroso
+VVPR11.SA,Fundo De Investimento Imobiliario V2 Properties
+PSVM11.SA,Porto Sudeste do Brasil S.A. VAR INCOME UNDATED ROYALTIES BASED
+RVBI11.SA,Vbr Reits Fof Fundo De Investimento Imobiliario
+BEWT39.SA,MSCI TAIWAN DRN
+BTAL11.SA,FII Btg Pactual Agro Logistica
+XFIX11.SA,Trend Etf Ifix
+KEVE11.SA,Even II Kinea Fundo De Investimento Imobiliario
+VINO11.SA,Vinci Corporate Fundo De Investimento Imobiliario
+URPR11.SA,Urca Prime Renda Fundo De Investimento Imobiliario - FII
+BIVB39.SA,CORE SP 500 DRN
+SADI11.SA,Santander Papeis Imobiliarios Cdi Fundo De Investimento Imobiliario
+SMAC11.SA,It Now Small Cap Fundo de Ãndice
+RCFA11.SA,Grupo Rcfa Fundo De Investimento
+BRAX11.SA,iShares IBrX-Ãndice Brasil (IBrX-100) Fundo de Ãndice ETF
+SPXI11.SA,It Now S&P500 TRN Fund ETF
+VLID1.SA,"VALID DO 9,13"
+HSLG11.SA,Hsi Logistica Fundo De Investimento Imobiliario
+JRDM11.SA,Fundo de Investimento Imobiliário - FII Shopping Jardim Sul
+PIBB11.SA,It Now PIBB IBrX-50 Index Fund - PIBB11 ETF
+ABCB2.SA,"ABC BRASIL DP 12,01"
+ARMT34.SA,ARCELOR DRN
+IMAB11.SA,It Now ID ETF IMA-B Fundo De Ãndice
+ABUD34.SA,Anheuser-Busch InBev SA/NV
+PVBI11.SA,Fundo De Investimento ImobiliarRio Vbi Prime Properties
+XPIN11.SA,Xp Industrial Fundo Investimento Imobiliario
+XPLG11.SA,Xp Log Fundo Investimento Imobiliario FII
+ALZR11.SA,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario
